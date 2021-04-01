@@ -19,7 +19,7 @@ tags:
 updated: 'March 1st, 2021'
 ---
 
-Whether it’s the Yellowhammer State, the Cotton State or the Heart of Dixie, whatever you call the state of Alabama, an abundance of birds calls it home. “Yellowhammer” in fact refers to the common name for the northern flicker woodpecker &mdash; which just happens to be the state bird of Alabama.
+Whether it’s the Yellowhammer State or the Cotton State, whatever you call the state of Alabama, an abundance of birds calls it home. “Yellowhammer” in fact refers to the common name for the northern flicker woodpecker &mdash; which just happens to be the state bird of Alabama.
 
 Specifically, coastal Alabama is home to a treasure trove of avian species that nest on the beach and use the area for stopover on their migratory journeys around the world. Coastal Alabama is a particularly vulnerable area, as well as the other four Gulf state coasts. The Gulf’s coast is subject to battering from hurricanes and storm surge, land loss from a lack of sediment transfers, and increased development &mdash; making coastal restoration projects all that more important.
 
