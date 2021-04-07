@@ -38,9 +38,7 @@ The Service offers private landowners, as part of the Endangered Species Act, re
 
 A dozen landowners in Collier County have put together a conservation plan. The land currently is zoned to allow one home every five acres, a patchwork development pattern that invariably leads to more conflict between residents and wildlife.
 
-Interactions between humans and panthers, including the loss of pets and livestock, will likely increase as development pushes farther into south and central Florida. And they’ll only get wors
-
-Nationwide, federal agencies occasionally accept private dollars to offset the cost of reviewing a particularly large permit application. The money must be used in a way that maintains the agency’s independence and objectivity while avoiding any conflict of interest.    e if the inevitable demand for more housing in Collier County is answered with more sprawling, ranchette communities  that are permitted under the current zoning. The conservation plan is intended to keep panthers and humans as far apart as possible by clustering the homes and shops away from panther habitat and corridors and by creating natural buffers, like waterways, between people and panthers.
+Interactions between humans and panthers, including the loss of pets and livestock, will likely increase as development pushes farther into south and central Florida. And they’ll only get worse if the inevitable demand for more housing in Collier County is answered with more sprawling, ranchette communities that are permitted under the current zoning. The conservation plan is intended to keep panthers and humans as far apart as possible by clustering the homes and shops away from panther habitat and corridors and by creating natural buffers, like waterways, between people and panthers.
 
 A key component of the proposed plan is the establishment of a conservation trust fund financed by fees on property sales within the project area. It’s expected to generate $150 million over 50 years to buy  more land and enhance wildlife corridors.
 
@@ -62,9 +60,16 @@ Any proposed change to an endangered species habitat prompts a comprehensive bio
 
 Nationwide, federal agencies occasionally accept private dollars to offset the cost of reviewing a particularly large permit application. The money must be used in a way that maintains the agency’s independence and objectivity while avoiding any conflict of interest.
 
+The Service received $287,000, over six years, from the Collier County landowners requesting the habitat conservation plan and permit. The Service used that money to hire biologists who worked on projects other than the large scale habitat conservation plan. In effect, the Service created a firewall between the Collier County landowners and the permit they sought. This arrangement allowed senior and experienced biologists to undertake the difficult analyses needed for the habitat conservation plan, while also allowing other biologists to tackle the more routine permit applications without delay. 
+
 “We have been exceedingly careful to not use any money from landowners to review the habitat conservation plan,” Williams said. “And no employee with decision-making authority was paid with private dollars. Nobody tells us how to do our jobs.”
 
 Service biologists are currently scrutinizing the east Collier project to ensure, if approved, that none of the threatened or endangered species, or their habitats, would be jeopardized. A final environmental impact statement, that incorporates public input, should also be completed by year’s end. Each report will ultimately determine if – and how – development can co-exist with the recovery of an iconic species.
 
 “Virtually everybody agrees that you can’t do conservation work in the South without private landowners who own most of the region’s land,” said Williams. “So, in the interest of conservation, we will collaborate with others who share our concern for the future of Florida panthers and other species. But in the end, we won’t approve a habitat conservation plan unless we are certain that it safeguards the species.”
 
+
+## Contact
+
+Dan Chapman, Public Affairs Specialist  
+[daniel_chapman@fws.gov](mailto:daniel_chapman@fws.gov), (404) 679-4028
