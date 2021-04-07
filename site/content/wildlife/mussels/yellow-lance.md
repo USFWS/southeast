@@ -14,7 +14,7 @@ tags:
     - Mussel
     - 'North Carolina'
     - 'Raleigh Ecological Services Field Office'
-    - Virginia
+    - 'Virginia'
 hero:
     name: yellow-lance.jpg
     alt: 'A group of about a dozen small triangular shellfish in shallow water.'
@@ -151,6 +151,12 @@ Individuals can do a number of things to help protect freshwater species, includ
 ## Subject matter experts
 
 - Sarah McRae, Fish and Wildlife Biologist, Raleigh. [Sarah_McRae@fws.gov](mailto:Sarah_McRae@fws.gov?subject=Yellow+lance)
+
+## DESIGNATED CRITICAL HABITAT
+
+The eleven critical habitat units designated for the yellow lance sit within the Patuxent, Rappahannock, York, James, Chowan, Tar and Neuse River Basins in North Carolina, Virginia and Maryland. Totaling 319 river miles, the units fall within Franklin, Granville, Halifax, Johnston, Nash, Vance, Wake and Warren Counties, North Carolina; Brunswick, Craig, Culpeper, Dinwiddie, Fauquier, Louisa, Lunenburg, Madison, Nottoway, Orange and Rappahannock Counties, Virginia; and Howard and Montgomery Counties in Maryland. All units are currently occupied by the yellow lance and do not include upland habitats, only streambeds to the high-water mark. No unoccupied units have been designated. 
+
+{{< figure class="photo-center" src="/images/pages/650/yellow-lance-critical-habitat.png" alt="A map showing units of designated crtical habitat." caption="Yellow lance designated critical habitat. Map by USFWS." >}}
 
 ## Useful resources
 
