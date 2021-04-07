@@ -26,9 +26,9 @@ A dispute, though, has developed between preservationists, worried about sprawl 
 
 A proposed 150,000-acre “habitat conservation plan” for northeast Collier County would consolidate residential and commercial properties onto lands deemed less valuable for wildlife. Fully 70 percent of the area would remain largely unchanged, a mixture of ranchland, farm land, and native habitat for the benefit of the panther and other animals.
 
-“We are the nation’s wildlife conservation agency and, in close cooperation with our many public and private partners, we will continue to seek the right balance between our mandate and the needs of the local community,” said Larry Williams, the Ecological Services supervisor in Florida for the U.S. Fish and Wildlife Service (Service). The Service is currently reviewing the conservation plan. 
+“We are the nation’s wildlife conservation agency and, in close cooperation with our many public and private partners, we will continue to seek the right balance between our mandate and the needs of the local community,” said Larry Williams, the Ecological Services supervisor in Florida for the U.S. Fish and Wildlife Service (Service). The Service is currently reviewing the conservation plan.
 
-“Whatever the plan’s outcome, we will mitigate the impact to our trust species while ensuring that the environment will be protected and the local economy will thrive.”  
+“Whatever the plan’s outcome, we will mitigate the impact to our trust species while ensuring that the environment will be protected and the local economy will thrive.”
 
 {{< figure class="photo-center" src="/images/pages/florida-panther-kittens.jpg" alt="Three Florida panther kittens in their den. They are spotted with blue eyes." caption="Florida panther kittens. Photo by Florida Fish and Wildlife Conservation Commission." >}}
 
