@@ -25,7 +25,7 @@ Recovery actions such as habitat enhancement, cattle exclusion, fire break manag
 
 {{< figure class="photo-center"src="/images/pages/eugenia.woodburyana.jpg" alt="A plant with red and yellow bulbus leaves and green leaves/ "caption="Eugenia woodburyana. Photo by O. Monsegur.">}}
 
-The Service has scheduled a virtual public hearing on both proposed actions on May 12, 2021 from 6-8 p.m. AST (6-8 p.m. EST ) via Zoom online video platform and via teleconference. [Registration is required](https://www.fws.gov/southeast/caribbean/).  
+The Service has scheduled a virtual public hearing on both proposed actions on May 12, 2021 from 6-8 p.m. AST (6-8 p.m. EST ) via Zoom online video platform and via teleconference. [Registration is required](/caribbean/news/caribbean-page-virtual-public-hearing-english/).  
 
 The public hearing will provide interested parties an opportunity to present verbal testimony (formal, oral comments) regarding either proposed rule. The public hearing will not be an opportunity for dialogue with the Service. It is a forum for accepting formal verbal testimony. In the event there is a large attendance, the time allotted for oral statements may be limited.  
 
