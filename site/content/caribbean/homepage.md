@@ -15,7 +15,7 @@ tags:
     - 'Endangered Species Act'
     - 'Puerto Rico'
     - 'US Virgin Islands'
-updated: 'September 27th, 2018'
+updated: 'April 23rd, 2021'
 ---
 
 <div style="border-radius: 5px; border: 3px solid #f76552; margin: auto; display: block; padding: 1.5rem; box-shadow: 3px 3px 5px rgba(0,0,0,0.4);">
@@ -90,3 +90,7 @@ The Caribbean ES Office services Puerto Rico and the U.S. Virgin Islands. Our ma
   Road 191, Kilometer 4.0 <br>
   Río Grande, PR 00745 <br>
 </address>
+
+## News
+
+{{< section-content-by-tag tag="Caribbean Ecological Services Field Office" section="news" >}}
