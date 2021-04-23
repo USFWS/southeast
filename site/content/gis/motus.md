@@ -7,7 +7,7 @@ aliases:
 tags:
     - Map
     - Telemetry
-updated: 'May 16th, 2019'
+updated: 'April 20th, 2021'
 ---
 
 The map below presents initial tagging locations of migratory animals detected by radio telemetry towers operated by the Service's Southeast Region National Wildlife Refuge System. This map is a visualization product/tool, so read the [limitations of data use](#data-limitations-and-user-caution) and [disclaimers](#disclaimers) for more information.
