@@ -33,9 +33,9 @@ Anyone wishing to make an oral statement at the public hearing for the record is
 
 The use of a virtual public hearing is consistent with our regulations at 50 CFR 424.16(c)(3).
 
-The Service is committed to providing access to the public hearing for all participants. Closed captioning will be available during the public hearing. Further, a [full audio and video recording and transcript](/southeast/caribbean/) of the public hearing will be posted online after the hearing.
+The Service is committed to providing access to the public hearing for all participants. Closed captioning will be available during the public hearing. Further, a full audio and video recording and transcript of the public hearing will be posted online at the bottom of this release after the hearing.
 
-Participants will also have access to live audio during the public hearing via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the hearing should contact the person listed under ## FOR FURTHER INFORMATION CONTACT below at least five business days prior to the date of the hearing to help ensure availability. [An accessible version of the Service’s presentation](/southeast/caribbean/) will also be posted online prior to the hearing.
+Participants will also have access to live audio during the public hearing via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the hearing should contact the person listed below at least five business days prior to the date of the hearing to help ensure availability. An accessible version of the Service’s presentation will also be posted at the bottom of this release online prior to the hearing.
 
 ## Contact
 
