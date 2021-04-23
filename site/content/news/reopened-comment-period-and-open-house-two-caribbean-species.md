@@ -1,7 +1,6 @@
 ---
 title: 'Service Reopens Comment Periods and Holds Public Hearing on Proposed Downlistings of Two Caribbean Species'
 date: 2021-04-23
-draft: true
 hero:
     name: vi-tree-boa.jpg
     alt: 'A boa (brown and black) wrapped around branches in a tree.'
@@ -9,6 +8,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - 'Caribbean'
+    - 'Caribbean Ecological Services Field Office'
     - 'Virgin Islands Tree Boa'
     - 'Eugenia woodburyana'
     - 'Virgin Islands'
