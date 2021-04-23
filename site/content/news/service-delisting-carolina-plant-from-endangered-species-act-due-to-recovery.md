@@ -16,6 +16,7 @@ tags:
 updated: 'April 23, 2021'
 
 ---
+
 Following a review of the best-available science, the U.S. Fish and Wildlife Service is proposing to delist the dwarf-flowered heartleaf from the Endangered Species Act (ESA) due to recovery. The move represents years of ESA-inspired collaborations between state, federal and local stakeholders on behalf of the North Carolina and South Carolina plant.
 
 When the plant was listed as threatened under the ESA in 1989, there were only 24 known populations, distributed across eight counties. Today, there are at least 119 populations scattered across 10 North Carolina and three South Carolina counties. Of those 119 populations, 27 have more than 1,000 plants.
