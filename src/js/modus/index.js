@@ -23,7 +23,7 @@ L.Icon.Default.imagePath = `${dataURL}images/`;
 
 const unique = arrArg => arrArg.filter((elem, pos, arr) => arr.indexOf(elem) === pos);
 
-const homeIcon =  '<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve"><g id="home"><polygon fill="#464646" points="11.2,20.65 11.2,15.249 14.8,15.249 14.8,20.65 19.3,20.65 19.3,13.45 22,13.45 13,5.35 4,13.45 6.7,13.45 6.7,20.65"/></g></svg>';
+const homeIcon = '<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve"><g id="home"><polygon fill="#464646" points="11.2,20.65 11.2,15.249 14.8,15.249 14.8,20.65 19.3,20.65 19.3,13.45 22,13.45 13,5.35 4,13.45 6.7,13.45 6.7,20.65"/></g></svg>';
 
 const createDetectionTemplate = props => `
   <div><strong>${props.spp}</strong><br>${props.site}</div>
