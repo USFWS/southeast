@@ -1,5 +1,5 @@
 ---
-title: 'Service Reopens Comment Periods and Holds Public Hearing on Proposed Downlistings of Two Caribbean Species'
+title: 'Service reopens comment periods and holds public hearing on proposed downlistings of two Caribbean species'
 date: 2021-04-23
 hero:
     name: vi-tree-boa.jpg
