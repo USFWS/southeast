@@ -1,5 +1,5 @@
 ---
-title: 'Frequently Asked Questions About the Proposed Delisting of the Dwarf-Flowered Heartleaf'
+title: 'Proposed delisting of the dwarf-flowered heartleaf'
 date: 2020-04-24T00:00:00.000Z
 hero:
     name: dwarf-flowered-heartleaf.jpg
