@@ -24,7 +24,7 @@ Acciones de conservación que han beneficiado a la boa de Islas Vírgenes incluy
 
 El Servicio también propuso reclasificar la planta [Eugenia woodburyana](https://www.federalregister.gov/documents/2020/10/21/2020-20300/endangered-and-threatened-wildlife-and-plants-reclassification-of-eugenia-woodburyana-as-threatened) de en peligro de extinción a amenazada, junto con un el reglamento bajo la sección 4(d) del ESA.
 
-{{< figure class="photo-center"src="/images/pages/eugenia.woodburyana.jpg" alt="A plant with red and yellow bulbus leaves and green leaves."caption=Eugenia woodburyana. Photo by O. Monsegur.">}}
+{{< figure class="photo-center" src="/images/pages/eugenia-woodburyana.jpg" alt="A plant with red and yellow bulbus leaves and green leaves. "caption=Eugenia woodburyana. Photo by O. Monsegur.">}}
 
 El progreso en la conservación y recuperación de Eugenia woodburyana es el resultado de los continuos esfuerzos de colaboradores del Servicio como, el Departamento de Recursos Naturales y Ambientales de Puerto Rico, Envirosurvey, Inc. y dueños de terrenos privados. Acciones de recuperación como el mejoramiento de hábitat, la exclusión de ganado, el manejo de cortafuegos, el monitoreo de la propagación de la población natural y la introducción de individuos en terrenos manejados para la conservación, continúan ayudando a la recuperación de esta especie. El setenta y tres por ciento de los árboles de Eugenia woodburyana se encuentran en áreas manejadas para conservación.
 
