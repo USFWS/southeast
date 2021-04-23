@@ -11,6 +11,9 @@ tags:
     - 'North Carolina'
     - 'South Carolina'
     - 'Plants'
+
+updated: 'April 23, 2021'
+
 ---
 Following a review of the best-available science, the U.S. Fish and Wildlife Service is proposing to delist the dwarf-flowered heartleaf from the Endangered Species Act (ESA) due to recovery. The move represents years of ESA-inspired collaborations between state, federal and local stakeholders on behalf of the North Carolina and South Carolina plant. 
 
