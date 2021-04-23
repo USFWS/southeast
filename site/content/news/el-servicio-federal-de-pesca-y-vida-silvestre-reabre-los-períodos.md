@@ -1,6 +1,5 @@
 ---
 title: 'El Servicio Federal de Pesca y Vida Silvestre reabre los períodos de comentarios y lleva a cabo una vista pública sobre las propuestas para reclasificar dos especies del Caribe de peligro de extinción a amenazadas'
-draft: true
 date: 2021-04-23
 hero:
     name: vi-tree-boa.jpg
@@ -9,6 +8,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - 'Caribbean'
+    - 'Caribbean Ecological Services Field Office'
     - 'Virgin Islands Tree Boa'
     - 'Eugenia woodburyana'
     - 'Virgin Islands'
