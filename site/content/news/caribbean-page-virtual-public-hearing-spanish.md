@@ -1,11 +1,11 @@
 ---
 title: 'Información Respecto a la Audiencia Pública Virtual Registro e Instrucciones'
-start: 2021-04-23T09:00:00.000Z
-end: 2021-05-12:00:00.000Z
+date: 2021-04-23
 tags:
     - 'boa de Islas Vírgenes'
     - 'Eugenia woodburyana'
     - 'Caribbean'
+    - 'Caribbean Ecological Services Field Office'
     - 'Virgin Islands'
     - 'Endangered Species Act'
 updated: 'April 22nd, 2021'
