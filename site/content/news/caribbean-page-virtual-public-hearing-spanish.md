@@ -63,4 +63,4 @@ El Servicio se compromete a brindar acceso a la vista pública para todos los pa
 
 as personas con discapacidades que requieran acomodo razonable para participar en la vista pública deben comunicarse con [Marelisa Rivera](mailto:Marelisa_rivera@fws.gov) al menos 5 días hábiles antes de la fecha de la vista pública para garantizar la disponibilidad. La fecha límite para dichas solicitudes es a las 5:00 pm (hora del Atlántico) del miércoles 5 de mayo de 2021.
 
-Las personas que utilizan un dispositivo de telecomunicaciones para sordos (TDD) pueden llamar al Servicio Federal de Retransmisión al 800–877–8339. Copia de la presentación que se ofrecerá durante la vista pública estará disponible [en línea en](/caribbean antes de la vista pública).
+Las personas que utilizan un dispositivo de telecomunicaciones para sordos (TDD) pueden llamar al Servicio Federal de Retransmisión al 800–877–8339. Copia de la presentación que se ofrecerá durante la vista pública estará disponible [en línea en](/caribbean) antes de la vista pública.
