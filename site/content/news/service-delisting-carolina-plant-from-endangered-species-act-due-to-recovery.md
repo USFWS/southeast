@@ -1,5 +1,5 @@
 ---
-title: 'Service Delisting Carolina Plant from Endangered Species Act Due to Recovery'
+title: 'Service delisting Carolina plant from Endangered Species Act due to recovery'
 date: 2021-04-23T00:00:00.000Z
 hero:
     name: dwarf-flowered-heartleaf.jpg
