@@ -9,21 +9,18 @@ hero:
     alt: 'Guy pointing, Richard Crossett points to a skein of snow geese crossing high above the Howell Tract.'
     caption: 'Richard Crossett points to a skein of snow geese crossing high above the Howell Tract. Photo credit Dan Chapman, USFWS.'
 tags:
-    - 'Arkansas'
-    - 'Central Arkansas National Wildlife Refuge Complex'
+    - Arkansas
     - 'Cache River National Wildife Refuge'
-    - 'Eastern grasslands'
+    - 'Central Arkansas National Wildlife Refuge Complex'
+    - 'Eastern Grasslands'
+    - Hunting
+    - 'Migratory Birds'
     - 'Red Hills'
     - 'Red Hills Salamander'
-    - 'Hunting'
-    - 'Migratory birds'
-
-updated: 'April 26th, 2021'
+updated: 'April 27th, 2021'
 ---
 
-**Augusta, Arkansas –** -- 
-
-The old rice plantation isn’t much to look at to the untrained eye. It’s dinner-table flat with waist-high grasses and clumps of saltbush. A few young oaks sit, forlornly, in the middle of the 200-acre field. The bottomland forest lining the Cache River is a mile away.
+**Augusta, Arkansas** - The old rice plantation isn’t much to look at to the untrained eye. It’s dinner-table flat with waist-high grasses and clumps of saltbush. A few young oaks sit, forlornly, in the middle of the 200-acre field. The bottomland forest lining the Cache River is a mile away.
 
 To Richard Crossett, though, the so-called Howell Tract is beautiful. Crossett, you see, sees things differently. He’s a wildlife biologist with the U.S. Fish and Wildlife Service whose job is to restore the beaten-down rice field to its pre-agricultural splendor.
 
