@@ -11,7 +11,7 @@ tags:
     - Florida
     - 'Panama City Crayfish'
     - 'Panama City Ecological Services Field Office'
-updated: 'April 14th, 2021'
+updated: 'May 3rd, 2021'
 ---
 
 **Panama City, Fla.** – The U.S. Fish and Wildlife Service is reopening the public comment period on its 2018 proposal to list the Panama City crayfish as a threatened species under the Endangered Species Act (ESA). The Service is also proposing to designate a critical habitat for the crayfish, and a special 4(d) rule, designed to conserve the crayfish while allowing greater flexibility for landowners. A draft economic analysis of the proposed critical habitat designation is also being released with today’s proposed rule.
@@ -53,3 +53,5 @@ ADDRESSES: You may submit comments on the proposed rules or draft economic analy
 2. By hard copy: Submit by U.S. mail or hand-delivery to: Public Comments Processing, Attn: FWS-R4-ES-2017-0061, U.S. Fish and Wildlife Service, MS: JAO/1N, 5275 Leesburg Pike, Falls Church, VA 22041–3803.
 
 Comments should be sent only by the methods described above. The Service will post all comments on [regulations.gov](https://www.regulations.gov). This generally means personal information provided will also be posted.
+
+Download the [Panama City crayfish public hearing presentation](https://www.fws.gov/panamacity/resources/pdf/panama-city-crayfish-public-hearing-presentation.pdf).
