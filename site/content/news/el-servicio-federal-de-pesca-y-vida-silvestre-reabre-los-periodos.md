@@ -40,7 +40,7 @@ El Servicio se compromete a brindar acceso a la vista pública para todos los pa
 
 Los participantes también tendrán acceso a audio en vivo durante la vista pública a través de sus teléfonos o altavoces de computadora. Las personas con discapacidades que requieran acomodo razonable para participar en la vista, deben comunicarse con la persona indicada en PARA MÁS INFORMACIÓN a continuación, al menos cinco días hábiles antes de la fecha de la audiencia para ayudar a garantizar la disponibilidad.
 
-También se publicará en línea una versión accesible de [la presentación del Servicio antes de la audiencia](/caribbean/).
+También se publicará en línea una versión accesible de [la presentación del Servicio antes de la audiencia](/pdf/presentations/VI-Boa-Eugenia-Public-Hearing-Combined-Presentation-Spanish.pdf).
 
 ## Contact a
 
