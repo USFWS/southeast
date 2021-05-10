@@ -35,7 +35,7 @@ The use of a virtual public hearing is consistent with our regulations at 50 CFR
 
 The Service is committed to providing access to the public hearing for all participants. Closed captioning will be available during the public hearing. Further, a full audio and video recording and transcript of the public hearing will be added to this release after the hearing.
 
-Participants will also have access to live audio during the public hearing via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the hearing should contact the person listed under ## FOR FURTHER INFORMATION CONTACT below at least five business days prior to the date of the hearing to help ensure availability. An accessible version of the Service’s presentation will also be added to this release prior to the hearing.
+Participants will also have access to live audio during the public hearing via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the hearing should contact the person listed under ## FOR FURTHER INFORMATION CONTACT below at least five business days prior to the date of the hearing to help ensure availability. An accessible version of the Service’s [presentation](/pdf/presentations/VI-Boa-Eugenia-Public-Hearing-Combined-Presentation-English.pdf) will also be added to this release prior to the hearing.
 
 ## Contact
 Edwin E. Muñiz, Field Supervisor  
