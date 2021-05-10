@@ -1,19 +1,19 @@
 ---
 title: 'El Servicio Federal de Pesca y Vida Silvestre reabre los períodos de comentarios y lleva a cabo una vista pública sobre las propuestas para reclasificar dos especies del Caribe de peligro de extinción a amenazadas'
-date: 2021-04-23
+date: 2021-04-23T00:00:00.000Z
 hero:
     name: vi-tree-boa.jpg
     alt: 'A boa (brown and black) wrapped around branches in a tree.'
     caption: 'Boa de Islas Vírgene. JP Zegarra, USFWS.'
 tags:
-    - 'Endangered Species Act'
-    - 'Caribbean'
+    - 'Boa De Islas Vírgenes'
+    - Caribbean
     - 'Caribbean Ecological Services Field Office'
-    - 'Virgin Islands Tree Boa'
-    - 'Eugenia woodburyana'
+    - 'Endangered Species Act'
+    - 'Eugenia Woodburyana'
     - 'Virgin Islands'
-    - 'Boa de Islas Vírgenes'
-updated: 'April 22, 2021'
+    - 'Virgin Islands Tree Boa'
+updated: 'May 10th, 2021'
 ---
 
 El Servicio Federal de Pesca y Vida Silvestre (Servicio) está reabriendo el período de comentarios sobre las propuestas para reclasificar dos especies del Caribe a especies amenazadas, y así permitir que las personas interesadas tengan una oportunidad adicional para emitir comentarios y participar de una vista pública virtual. Los comentarios sometidos anteriormente sobre estas propuestas se considerarán en su totalidad y no es necesario volver a enviarlos.
@@ -28,7 +28,7 @@ El Servicio también propuso reclasificar la planta [Eugenia woodburyana](https:
 
 El progreso en la conservación y recuperación de Eugenia woodburyana es el resultado de los continuos esfuerzos de colaboradores del Servicio como, el Departamento de Recursos Naturales y Ambientales de Puerto Rico, Envirosurvey, Inc. y dueños de terrenos privados. Acciones de recuperación como el mejoramiento de hábitat, la exclusión de ganado, el manejo de cortafuegos, el monitoreo de la propagación de la población natural y la introducción de individuos en terrenos manejados para la conservación, continúan ayudando a la recuperación de esta especie. El setenta y tres por ciento de los árboles de Eugenia woodburyana se encuentran en áreas manejadas para conservación.
 
-El Servicio ha programado una vista pública virtual sobre ambas acciones propuestas para el 12 de mayo de 2021 de 6:00pm a 8:00 p.m. a través de la plataforma de video en línea Zoom y por teleconferencia. Se requiere registrarse y se puede hacer [en línea](/news/2021/04/caribbean-page-virtual-public-hearing-spanish/). 
+El Servicio ha programado una vista pública virtual sobre ambas acciones propuestas para el 12 de mayo de 2021 de 6:00pm a 8:00 p.m. a través de la plataforma de video en línea Zoom y por teleconferencia. Se requiere registrarse y se puede hacer [en línea](/news/2021/04/caribbean-page-virtual-public-hearing-spanish/).
 
 La vista pública brindará a las personas interesadas la oportunidad de presentar testimonio verbal (comentarios formales, orales) con respecto a cualquiera de las regulaciones propuestas. La vista pública no será una oportunidad para dialogar con el Servicio. Es un foro para aceptar testimonios verbales formales. En caso de que haya una gran asistencia, el tiempo asignado para las declaraciones orales puede ser limitado.
 

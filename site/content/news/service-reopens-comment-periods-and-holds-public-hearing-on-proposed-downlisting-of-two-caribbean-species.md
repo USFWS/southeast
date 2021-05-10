@@ -1,18 +1,18 @@
 ---
 title: 'Service reopens comment periods and holds public hearing on proposed downlistings of two Caribbean species'
-date: 2021-04-23
+date: 2021-04-23T00:00:00.000Z
 hero:
     name: vi-tree-boa.jpg
     alt: 'A boa (brown and black) wrapped around branches in a tree.'
     caption: 'Virgin Islands tree boa. Photo by JP Zegarra USFWS.'
 tags:
-    - 'Endangered Species Act'
-    - 'Caribbean'
+    - Caribbean
     - 'Caribbean Ecological Services Field Office'
-    - 'Virgin Islands Tree Boa'
-    - 'Eugenia woodburyana'
+    - 'Endangered Species Act'
+    - 'Eugenia Woodburyana'
     - 'Virgin Islands'
-updated: 'April 22, 2021'
+    - 'Virgin Islands Tree Boa'
+updated: 'May 10th, 2021'
 ---
 
 The U.S. Fish and Wildlife Service is reopening the comment periods on the proposed downlisting of two Caribbean species, to allow interested parties additional opportunities to comment on and attend a virtual public hearing on the actions. Comments previously submitted on these proposals will be fully considered and do not need to be resubmitted.
@@ -35,7 +35,7 @@ The use of a virtual public hearing is consistent with our regulations at 50 CFR
 
 The Service is committed to providing access to the public hearing for all participants. Closed captioning will be available during the public hearing. Further, a full audio and video recording and transcript of the public hearing will be added to this release after the hearing.
 
-Participants will also have access to live audio during the public hearing via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the hearing should contact the person listed under ## FOR FURTHER INFORMATION CONTACT below at least five business days prior to the date of the hearing to help ensure availability. An accessible version of the Service’s [presentation](/pdf/presentations/VI-Boa-Eugenia-Public-Hearing-Combined-Presentation-English.pdf) will also be added to this release prior to the hearing.
+Participants will also have access to live audio during the public hearing via their telephone or computer speakers. Persons with disabilities requiring reasonable accommodations to participate in the hearing should contact the person listed below at least five business days prior to the date of the hearing to help ensure availability. An accessible version of the Service’s [presentation](/pdf/presentations/VI-Boa-Eugenia-Public-Hearing-Combined-Presentation-English.pdf) will also be added to this release prior to the hearing.
 
 ## Contact
 Edwin E. Muñiz, Field Supervisor  
