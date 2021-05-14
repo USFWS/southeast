@@ -3,14 +3,12 @@ title: 'Key deer among many Florida Keys species facing Irma'
 subtitle: 'Biologists will assess impact wildlife and plants when they return to the Keys'
 date: '2017-09-11'
 hero:
-    link: 'https://flic.kr/p/9nytdu'
-    caption: 'A Key deer on Big Pine Key in Florida. Photo by Garry Tucker, USFWS.'
+    caption: 'A Key deer on Big Pine Key in Florida. <a href="https://flic.kr/p/9nytdu">Photo</a> by Garry Tucker, USFWS.'
     alt: 'A deer similar in appearance to a white-tailed deer, but much smaller in size'
     name: key-deer.jpg
 tags:
     - Alabama
     - Florida
-    - Vero Beach
     - 'Florida Keys National Wildlife Refuges Complex'
     - Georgia
     - Gulf
@@ -22,10 +20,11 @@ tags:
     - 'Puerto Rico'
     - 'South Carolina'
     - 'US Virgin Islands'
-updated: 'September 14th, 2017'
+    - 'Vero Beach'
+updated: 'May 14th, 2021'
 ---
 
-Less than a year after surviving a rugged screwworm infestation, the Florida Keys’ Key deer now must contend with Hurricane Irma.  Some fans of the endangered species are worried.  
+Less than a year after surviving a rugged screwworm infestation, the Florida Keys’ Key deer now must contend with Hurricane Irma.  Some fans of the endangered species are worried.
 
 Catastrophic storms like Irma raise questions about wildlife, nature and impacts to their populations.  At the U.S. Fish and Wildlife Service’s [Florida Keys National Wildlife Refuges Complex](https://www.fws.gov/refuge/National_Key_Deer_Refuge/About_the_Complex.html), there are nearly 25 threatened and endangered wildlife and plants.
 
