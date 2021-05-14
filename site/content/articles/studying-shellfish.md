@@ -18,7 +18,7 @@ tags:
 updated: 'May 14th, 2021'
 ---
 
-**Cedar Key, Florida** – Brad Ennis runs the airboat over the low-tide mudflats and between the barrier islands protecting the Lower Suwannee National Wildlife Refuge. A fat raccoon traipses among clumps ofcordgrass. Fog limits Gulf of Mexico visibility to 100 yards.
+**Cedar Key, Florida** – Brad Ennis runs the airboat over the low-tide mudflats and between the barrier islands protecting the Lower Suwannee National Wildlife Refuge. A fat raccoon traipses among clumps of cordgrass. Fog limits Gulf of Mexico visibility to 100 yards.
 
 “It’s been worse,” Ennis says.
 
@@ -72,9 +72,7 @@ This particular 22-meter transect isn’t very impressive, mollusk-wise. Ennis i
 
 Tom Kelsch, with the National Fish and Wildlife Foundation, is more effusive singing Lone Cabbage’s praises.
 
-“I’ve been very pleased with the results,” says Kelsch, a senior vice president with the nonprofit’s Gulf Environmental Benefit Fund. “We did a public event, maybe six months after the first cultch (oyster beds) were deployed and we were already seeing spat settlement. That was very, very encouraging.
-
-I would say, in fact, that Lone Cabbage is one of the most successful, if not the most successful, oyster restoration projects we’ve funded to date.”
+“I’ve been very pleased with the results,” says Kelsch, a senior vice president with the nonprofit’s Gulf Environmental Benefit Fund. “We did a public event, maybe six months after the first cultch (oyster beds) were deployed and we were already seeing spat settlement. That was very, very encouraging. I would say, in fact, that Lone Cabbage is one of the most successful, if not the most successful, oyster restoration projects we’ve funded to date.”
 
 NFWF, which works closely with the Fish and Wildlife to conserve the nation’s lands and animals, put up $8.3 million for the restoration project. The money, appropriately, comes from financial penalties assessed against BP and Transocean for the damage caused by the 2010 Deepwater Horizon oil spill. Kelsch says the Gulf Fund is spending upward of $75 million on nine oyster restoration projects from Florida to Texas.
 
