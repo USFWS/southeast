@@ -15,7 +15,7 @@ hero:
 tags:
     - 'Endangered Species Act'
     - Georgia
-updated: 'February 22nd, 2021'
+updated: 'May 14th, 2021'
 ---
 
 {{< figure class="photo-right" src="/images/pages/chattahoochee-forest-nfh-stocking.jpg" alt="A service employee shoots fish out of a transport truck into a stream" caption="Project Leader Kelly Taylor stocking trout the week of August 3, 2020. Photo Kelly Taylor, USFWS." >}}
@@ -62,7 +62,7 @@ Chattahoochee Forest National Fish Hatchery services trout streams throughout no
 
 ## Public use opportunities
 
-{{< figure class="photo-center" src="/images/pages/chattahoochee-forest-nfh-rodeo-2020.jpg" alt="A flier of upcoming fishing events; see the events page for more details" caption="2020 fishing rodeos." >}}
+The annual fishing rodeos at the hatchery for Veterans, Seniors and Kids will not be held in 2021 due to COVID-19 and CDC guidelines for social distancing. These events will be re-scheduled at a future date for 2022.
 
 The hatchery provides environmental education and public outreach opportunities to visitors, school groups, and various other organizations. The environmental education program is designed to promote a conservation ethic and to develop interest in recreational fishing opportunities.
 
