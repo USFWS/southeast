@@ -3,19 +3,19 @@ title: 'Studying shellfish'
 subtitle: 'Service, partners work to restore reef, industry'
 type: feature
 author: 'Dan Chapman, public affairs specialist'
-date: 2021-05-14
+date: 2021-05-14T00:00:00.000Z
 hero:
     name: student-researchers.jpg
     alt: 'University of Florida student researchers at Lone Cabbage Reef'
     caption: 'University of Florida student researchers at Lone Cabbage Reef. Photo credit: Dan Chapman, USFWS.'
 tags:
     - Florida
-    - 'Lower Suwannee National Wildlife Refuge'
     - 'Gulf of Mexico'
     - 'Lone Cabbage Reef'
-    - 'Mollusks'
-    - Oysters 
-updated: 'Nat 14th, 2021'
+    - 'Lower Suwannee National Wildlife Refuge'
+    - Mollusks
+    - Oysters
+updated: 'May 14th, 2021'
 ---
 
 **Cedar Key, Florida** – Brad Ennis runs the airboat over the low-tide mudflats and between the barrier islands protecting the Lower Suwannee National Wildlife Refuge. A fat raccoon traipses among clumps ofcordgrass. Fog limits Gulf of Mexico visibility to 100 yards.
@@ -38,21 +38,21 @@ Nobody, though, dares declare victory, not in a corner of the Gulf that witnesse
 
 {{< figure class="photo-center" src="/images/pages/Brad-ennis-researcher.jpg" alt="A guy walking along the reef with a notepad" caption="Brad Ennis, research coordinator, at Lone Cabbage Reef. Credit: Dan Chapman, USFWS" >}}
 
-## A reef in decline 
+## A reef in decline
 
-The Big Bend area, stretching north from Cedar Key to Apalachicola, is a sparsely populated, wildlife-rich Florida gem. It’s the largest stretch of undeveloped coastline in the Lower 48. It’s filled with state and federally protected parks and refuges, saltwater marshes, barrier islands and hardwood forests. 
+The Big Bend area, stretching north from Cedar Key to Apalachicola, is a sparsely populated, wildlife-rich Florida gem. It’s the largest stretch of undeveloped coastline in the Lower 48. It’s filled with state and federally protected parks and refuges, saltwater marshes, barrier islands and hardwood forests.
 
-The un-dammed Suwannee River supplies the fresh water that turns the northeast corner of the Gulf into a pantry of plenty for many rare and protected species including frosted flatwood salamanders, swallowtail kites, piping plovers, American oystercatchers, Gulf sturgeon and West Indian manatees. Commercial and recreational fishing – redfish, seatrout, clams, oysters – abound in the Suwannee Sound. 
+The un-dammed Suwannee River supplies the fresh water that turns the northeast corner of the Gulf into a pantry of plenty for many rare and protected species including frosted flatwood salamanders, swallowtail kites, piping plovers, American oystercatchers, Gulf sturgeon and West Indian manatees. Commercial and recreational fishing – redfish, seatrout, clams, oysters – abound in the Suwannee Sound.
 
 Or they used to. Oystering, once abundant, has all but dried up, just as it has in Apalachicola, Alabama and Texas. Locals would walk Lone Cabbage Reef at low tide and fill sacks full before the tide rolled back in.
 
 “Anecdotally, the oysters are harder to come by,” says Frederick. “There used to be a rule of thumb: the guy in the front of the boat would tong oysters into a tray where the guy culling them would throw the good ones over his shoulder into a bucket and the rest back into the water. If you had one oyster in the air at all times you were doing pretty well. No one’s had oysters in the air for a long time.”
 
-Gulf-wide, as much as 80 percent of the oyster reefs have suffered dramatic loss of substrate, the limestone rock base they grow upon. Reef lengths have shortened while the gaps between them have widened. Lone Cabbage’s height, too, would shrink several inches each year. Once reefs lose their covering of oyster shells they disintegrate into sandbars unsuitable for oyster growth. 
+Gulf-wide, as much as 80 percent of the oyster reefs have suffered dramatic loss of substrate, the limestone rock base they grow upon. Reef lengths have shortened while the gaps between them have widened. Lone Cabbage’s height, too, would shrink several inches each year. Once reefs lose their covering of oyster shells they disintegrate into sandbars unsuitable for oyster growth.
 
 The mollusks aren’t the only victims: other shellfish, small fish and plankton that depend upon the reefs as nurseries and hideouts also disappear.
 
-Over-harvesting, pollution, hurricanes, siltation and boat wakes typically destroy oyster reefs. At Lone Cabbage, though, the Suwannee River is likely the main culprit. Actually, the paucity of Suwannee River water is the greatest cause of the reef’s problems. The sound, and the oysters, depend upon a healthy mix of fresh and salt water. 
+Over-harvesting, pollution, hurricanes, siltation and boat wakes typically destroy oyster reefs. At Lone Cabbage, though, the Suwannee River is likely the main culprit. Actually, the paucity of Suwannee River water is the greatest cause of the reef’s problems. The sound, and the oysters, depend upon a healthy mix of fresh and salt water.
 
 A lower-flowing river increases the amount of salty Gulf water, tipping the fresh-salt balance in favor of parasitic diseases and predatory creatures. And an already eroded reef allows more salt water to pass into the nutrient-rich estuary.
 
@@ -88,9 +88,9 @@ It’s too early to determine whether the reef keeps more freshwater in the estu
 
 ## Estuary awakes
 
-It’s 10 o’clock and the fog has thickened. The incoming tide nearly tops researchers’ boots. Ennis calls it a day and steers the airboat toward the Lower Suwannee refuge. Along the way, and through the mist, the estuary comes alive. 
+It’s 10 o’clock and the fog has thickened. The incoming tide nearly tops researchers’ boots. Ennis calls it a day and steers the airboat toward the Lower Suwannee refuge. Along the way, and through the mist, the estuary comes alive.
 
 Fishermen race to a favored spot. A pelican flies low over the water. Herons, egrets and black skimmers patrol Preacher’s Cove. One, two, three red-beaked oyster catchers head for the reefs. Previously rare, they now abound on the oyster reefs, as do bald eagles.
 
-“This is a very healthy marsh,” Ennis says. 
+“This is a very healthy marsh,” Ennis says.
 
