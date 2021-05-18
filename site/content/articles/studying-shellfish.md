@@ -28,7 +28,7 @@ They arrive a few minutes later at a barely visible outcropping, drop anchor and
 
 Their work is critically important. Restoring the reef – one of the largest in the Gulf -- might resurrect the moribund oyster industry along Florida’s Big Bend. It could bolster fresh water levels in Suwannee Sound to the benefit of the many above- and below-water species that depend on a healthy mix of salt and fresh water.
 
-The multi-milliondollar Lone Cabbage Reef project could also serve as a restoration template for the entire oyster-depleted Gulf. And, a restored reef might mitigate the ravages of a warming world with its rising seas and ferocious storms that hammer the coast.
+The multi-million dollar Lone Cabbage Reef project could also serve as a restoration template for the entire oyster-depleted Gulf. And, a restored reef might mitigate the ravages of a warming world with its rising seas and ferocious storms that hammer the coast.
 
 “Here you go. We’ve got some pretty good oysters right here,” says Ennis, the project’s research coordinator, handling a football-sized mollusk cluster on the reef’s southern edge. “I think, on the whole, what we’re doing is working. I go by the numbers and the historical data and I see an increase in oysters growing on the reef.”
 
@@ -56,13 +56,13 @@ Over-harvesting, pollution, hurricanes, siltation and boat wakes typically destr
 
 A lower-flowing river increases the amount of salty Gulf water, tipping the fresh-salt balance in favor of parasitic diseases and predatory creatures. And an already eroded reef allows more salt water to pass into the nutrient-rich estuary.
 
-“The reef started going away in the last 30 years because of the droughtflood cycle and more, and larger, water withdrawals upriver,” says Andrew Gude, a U.S. Fish and Wildlife Service marine biologist who manages the Lower Suwannee and Cedar Key refuges. “Once those oyster reefs eroded away, it became just a bunch of shell pieces (unable) to hold enough freshwater close to the land.”
+“The reef started going away in the last 30 years because of the drought-flood cycle and more, and larger, water withdrawals upriver,” says Andrew Gude, a U.S. Fish and Wildlife Service marine biologist who manages the Lower Suwannee and Cedar Key refuges. “Once those oyster reefs eroded away, it became just a bunch of shell pieces (unable) to hold enough freshwater close to the land.”
 
 Everybody takes a piece of the free-flowing Suwannee which begins at the Okefenokee Swamp National Wildlife Refuge and flows through mostly rural, agricultural lands. Soybean, dairy and tree farmers stick straws into the river as do pulp mills and an ever-spreading Jacksonville.
 
 ## Living, dead: an inventory
 
-Ennis, via GPS attached to his cell phone, instructs the four studentinterns where, precisely, to measure oyster density along the three-mile reef. The fog has lifted a bit and whole sections of reef are visible above the water line. None, though, rises higher than a couple of feet. The students tally the number of live and dead oysters in 2.5-meter increments. 
+Ennis, via GPS attached to his cell phone, instructs the four student interns where, precisely, to measure oyster density along the three-mile reef. The fog has lifted a bit and whole sections of reef are visible above the water line. None, though, rises higher than a couple of feet. The students tally the number of live and dead oysters in 2.5-meter increments. 
 
 Ennis, with Covid mask and blue bandana all but covering his head, picks up barnacle-encrusted chunks of limestone. He feels for openings, the oyster’s lips. If open, the oyster is dead. If sealed, it's alive.
 
@@ -70,7 +70,7 @@ Ennis, with Covid mask and blue bandana all but covering his head, picks up barn
 
 This particular 22-meter transect isn’t very impressive, mollusk-wise. Ennis is pleased, though, with the number of barnacles, a sure sign that a healthy reef is creating habitat for oyster spat too.
 
-Tom Kelsch, with the National Fish and Wildlife Foundation, is more effusive singing Lone Cabbage’s praises.
+Tom Kelsch, with the National Fish and Wildlife Foundation (NFWF)f, is more effusive singing Lone Cabbage’s praises.
 
 “I’ve been very pleased with the results,” says Kelsch, a senior vice president with the nonprofit’s Gulf Environmental Benefit Fund. “We did a public event, maybe six months after the first cultch (oyster beds) were deployed and we were already seeing spat settlement. That was very, very encouraging. I would say, in fact, that Lone Cabbage is one of the most successful, if not the most successful, oyster restoration projects we’ve funded to date.”
 
