@@ -16,21 +16,16 @@ tags:
     - Fishing
     - Kentucky
     - 'Wolf Creek National Fish Hatchery'
-updated: 'February 22nd, 2021'
+updated: 'May 24th, 2021'
 ---
 
 <div style="border: 3px solid #721c24; border-radius: 5px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); padding: 1rem; margin: 1rem 0;">
-    <p>Although most hatchery lands and outdoor spaces have remained open for the public to enjoy, we ask that you do the following:</p>
+    <p>Although most hatchery lands and outdoor spaces have remained open for the public to enjoy, we ask that you <a href="https://www.fws.gov/refuges/visit/recreate-responsibly.html">Recreate Responsibly</a>.</p>
     <ul>
-        <li>Check local conditions on this website and call ahead for current information.  Operations vary based on local public health conditions.</li>
-        <li><a href="https://www.fws.gov/refuges/covid-mask-requirement.html">Face masks are required</a> in all federal buildings and on all federal lands.</li>
-        <li>Maintain a safe distance between yourself and other groups.</li>
-        <li>Wash your hands often with soap and water for at least 20 seconds.</li>
-        <li>Avoid touching your eyes, nose and mouth.</li>
-        <li>Cover your mouth and nose when you cough or sneeze.</li>
-        <li>Most importantly, stay home if you feel sick.</li>
+        <li>Check local conditions on this website and call ahead for current information. Operations vary based on local public health conditions.</li>
+        <li>Consistent with CDC recommendations, people who are not <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html#vaccinated">fully vaccinated</a> must continue to wear masks indoors and in crowded outdoor spaces.</li>
+        <li>Most importantly, stay home if you feel sick and continue to watch for <a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html">symptoms</a> of COVID-19 and follow CDC guidance on <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html">how to protect yourself and others</a>.</li>
     </ul>
-    <p>Learn more about the U.S. Fish and Wildlife Service <a href="https://fws.gov/home/public-health-update.html">Coronavirus Response</a>.</p>
 </div>
 
 Wolf Creek National Fish Hatchery was constructed in 1975, making it one of the newest in the federal hatchery system. With an annual budget of $1,200,000, this station produces approximately 1 million brown, brook, cutthroat and rainbow trout weighing 275,000 pounds every year. Fish are [stocked into over 100 different public fishing waters](/pdf/map/wolf-creek-stocking-map.pdf) in cooperation with the Kentucky Department of Fish and Wildlife Resources. The majority of the fish are stocked in waters managed by the federal government. No private waters are stocked.
