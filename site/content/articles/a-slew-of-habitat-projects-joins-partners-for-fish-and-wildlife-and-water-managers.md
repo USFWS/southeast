@@ -3,10 +3,9 @@ title: 'A slew of habitat projects joins Partners for Fish and Wildlife and wate
 date: 2021-05-24T00:00:00.000Z
 author: 'Chad Allison, Partners for Fish and Wildlife/Coastal Program Coordinator'
 hero:
-    name: florida-srub-jays-in-tree.jpg
-    alt: 'Two florida scrub-jays (blue and grey feathers) perched on a tree on a cloudy day.'
-    caption: 'Florida scrub-jays perched on a tree. Photo credit MyFWC.'
-    position: '25% 67%'
+    name: florida-scrub-jay-on-wood.jpg
+    alt: 'A bird with white breast and blue feathers on its back and wings perched on a wooden pallet'
+    caption: 'Florida scrub jay. Photo by Joseph Sage, FWC.'
 type: feature
 tags:
     - ' St. Johns River Water Management'
