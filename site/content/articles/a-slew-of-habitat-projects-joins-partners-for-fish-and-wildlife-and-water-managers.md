@@ -1,6 +1,6 @@
 ---
 title: 'A slew of habitat projects joins Partners for Fish and Wildlife and water managers'
-date: 2021-05-24
+date: 2021-05-24T00:00:00.000Z
 author: 'Chad Allison, Partners for Fish and Wildlife/Coastal Program Coordinator'
 hero:
     name: florida-srub-jays-in-tree.jpg
@@ -9,11 +9,11 @@ hero:
     position: '25% 67%'
 type: feature
 tags:
-    - 'Partners Program'
-    - 'Florida scrub-jay'
-    - 'Florida'
     - ' St. Johns River Water Management'
+    - Florida
+    - 'Florida Scrub-Jay'
     - 'Hal Scott Regional Preserve and Park'
+    - 'Partners Program'
 updated: 'May 24th, 2021'
 ---
 
@@ -31,5 +31,6 @@ The St. Johns River district owns or manages more than 770,000 acres across an 1
 
 
 ## Contact
+
 Chad Allison, Partners for Fish and Wildlife/Coastal Program Coordinator  
 [chad_allison@fws.gov](mailto:chad_allison@fws.gov)
