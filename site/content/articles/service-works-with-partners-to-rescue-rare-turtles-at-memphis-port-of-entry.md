@@ -21,16 +21,15 @@ updated: 'May 24th, 2021'
 
 The shipment was declared as “gifts,” but U.S. Customs and Border Protection agricultural specialists weren’t convinced. They referred the large cardboard box to U.S. Fish and Wildlife Service (Service) wildlife inspectors, who peered into the container only to discover baby formula cans lined with aluminum foil. They opened one. Inside was a white athletic sock.
 
-Inside that: Terrapene carolina mexicana, a Mexican box turtle tightly wrapped in duct tape. The rare turtle, and 19 more, were being illegally shipped through the United States en route to Asia at the Port of Memphis in Memphis, Tennessee.
+Inside that: *Terrapene carolina mexicana*, a Mexican box turtle tightly wrapped in duct tape. The rare turtle, and 19 more, were being illegally shipped through the United States en route to Asia at the Port of Memphis in Memphis, Tennessee.
 
-{{< figure class="photo-right" src="/images/pages/mexican-box-turtle-wrapped.jpg" alt="Mexican box turtle on a table wrapped in silver duct tape" caption="Smuggled Mexican box turtle wrapped in duct tape. Photo credit USFWS." >}}
+{{< figure class="photo-right" src="/images/pages/mexican-box-turtle-wrapped.jpg" alt="Mexican box turtle on a table wrapped in silver duct tape" caption="Smuggled Mexican box turtle wrapped in duct tape. Photo by USFWS." >}}
 
 The two federal agencies followed that March 24 discovery with a comparable seizure on April 2. This time, they uncovered 16 Mexican box turtles, also wrapped in socks and trapped in duct tape. Their shipping documents described them as “spare parts for hydraulic pumps.”
 
 On April 20, CBP transferred a third shipment to the Service. A wildlife inspector uncovered six more Mexican box turtles in a shipment falsely labeled as “spare parts sewing machines.” The turtles also were wrapped in duct tape, stuffed into socks and hidden inside ventilated baby formula cans lined with aluminum foil.
 
-“Wildlife trafficking is a serious crime that impacts imperiled species across the globe,” said Edward Grace, the Assistant Director of the Service’s Office of Law Enforcement. “In this case, rare turtles were illegally smuggled into the U.S. The inhumane conditions in which they arrived shines a light on the dark and tragic world of the illegal wildlife trade. I would like to thank U.S. Customs and Border Protecti
-the Memphis Zoo, FedEx and our Service wildlife inspectors for their assistance with this case. Together, we can protect at-risk species for future generations.”
+“Wildlife trafficking is a serious crime that impacts imperiled species across the globe,” said Edward Grace, the Assistant Director of the Service’s Office of Law Enforcement. “In this case, rare turtles were illegally smuggled into the U.S. The inhumane conditions in which they arrived shines a light on the dark and tragic world of the illegal wildlife trade. I would like to thank U.S. Customs and Border Protection, the Memphis Zoo, FedEx and our Service wildlife inspectors for their assistance with this case. Together, we can protect at-risk species for future generations.”
 
 The discoveries underscore what surprises may await officials at the port, said Mike Neipert, the CBP’s Director at the Port of Memphis.
 
