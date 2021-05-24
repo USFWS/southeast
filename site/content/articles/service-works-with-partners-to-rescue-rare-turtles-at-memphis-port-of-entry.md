@@ -2,21 +2,20 @@
 title: 'U.S. Fish and Wildlife Service Works with Partners to Rescue Rare Turtles at Memphis Port of Entry'
 type: feature
 author: 'Mark Davis, Public Affiars Specialist'
-date: 2021-05-24
+date: 2021-05-24T00:00:00.000Z
 hero:
     name: mexican-box-turtles-seized.jpg
     alt: 'Several small turtles with yellow and brown shells being watered in a sink'
     caption: 'Mexican box turtles being watered before transfer to the Memphis zoo. Photo credit USFWS.'
 tags:
-    - 'Wildlife Trafficking'
+    - 'Law Enforcement'
+    - 'Memphis Zoo'
     - 'Mexican Box Turtles'
-    - 'OLE'
+    - Mexico
+    - News
     - 'Port of Memphis'
     - Tennessee
-    - 'Memphis Zoo'
-    - 'Mexico'
-    -'News'
-   
+    - 'Wildlife Trafficking'
 updated: 'May 24th, 2021'
 ---
 
@@ -35,7 +34,7 @@ the Memphis Zoo, FedEx and our Service wildlife inspectors for their assistance 
 
 The discoveries underscore what surprises may await officials at the port, said Mike Neipert, the CBP’s Director at the Port of Memphis.
 
-“CBP officers and agriculture specialists never know exactly what they might encounter on a given day,” he said. “We work closely with our partner agencies such as the Service to ensure that trafficking laws are enforced effectively, especially when it comes to endangered or regulated species. We’re glad that this joint effort resulted in these turtles being placed into a safe and caring environment.”  
+“CBP officers and agriculture specialists never know exactly what they might encounter on a given day,” he said. “We work closely with our partner agencies such as the Service to ensure that trafficking laws are enforced effectively, especially when it comes to endangered or regulated species. We’re glad that this joint effort resulted in these turtles being placed into a safe and caring environment.”
 
 Since their discovery, the turtles are being cared for at the Memphis Zoo. One died, weakened by the strain of its smuggling from Mexico to Memphis.
 
@@ -51,7 +50,8 @@ No one is certain precisely where the smugglers caught the turtles, so they cann
 
 If you suspect someone is illegally importing wildlife, plants or any other species, please call the Service’s wildlife trafficking tips line at 1-844-FWS-TIPS (397-8477) or email [fws_tips@fws.gov](mailto:fws_tips@fws.gov). You might be eligible for a financial reward if your tip helps solve a case.
 
-More information on how to report wildlife crime is available [here](https://www.fws.gov/refuges/lawEnforcement/report-wildlife-crimes.php).
+[Learn how to report wildlife crime](https://www.fws.gov/refuges/lawEnforcement/report-wildlife-crimes.php).
+
 ## Contacts
 
 - Mark Davis, [mark_davis@fws.gov](mailto:mark_davis@fws.gov), 404-679-7291
