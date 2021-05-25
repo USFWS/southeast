@@ -23,7 +23,7 @@ hero:
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
     link: 'https://flic.kr/p/rpRgQq'
-updated: 'February 16, 2021'
+updated: 'May 25th, 2021'
 ---
 
 The Southeast Region Partners for Fish and Wildlife Program provides technical and financial assistance to private landowners interested in improving habitat for migratory birds, endangered, threatened and at-risk species while maintaining their primary land management goals. This is a voluntary program in which landowners continue to manage their land for their objectives as well as for wildlife, which most of the time go-hand-in-hand.
@@ -195,7 +195,7 @@ Cell: (251) 424-0717 <br>
 [fws.gov/athens/partners.html](https://www.fws.gov/athens/partners.html)
 
 Joseph Kirsch <br>
-Rome, Georgia <br>
+Rome, Georgia  
 (678) 340-0796 <br>
 [joseph_kirsch@fws.gov](mailto:joseph_kirsch@fws.gov?subject=Partners+for+Fish+and+Wildlife+Program)
 
