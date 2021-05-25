@@ -22,7 +22,6 @@ hero:
     name: walking-stick.jpg
     alt: 'A hand holds a wooden walking stick with a persons blurred torso in the background'
     caption: 'A biologist in a bog. <a href="https://flic.kr/p/rpRgQq">Photo</a> by Gary Peeples, USFWS.'
-    link: 'https://flic.kr/p/rpRgQq'
 updated: 'May 25th, 2021'
 ---
 
