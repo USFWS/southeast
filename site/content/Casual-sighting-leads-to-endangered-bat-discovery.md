@@ -9,21 +9,20 @@ hero:
     caption: 'Biologist attached a radio telemetry transmitter to a gray bat, Credit G. Peeples, USFWS.'
     position: '50% 95%'
 tags:
-    - 'Bats'
-    - 'White-Nose Syndrome'
-    - 'Asheville'
+    - Asheville
+    - Bats
     - 'Endangered Species'
-    - 'North Carolina'
     - 'Gray Bat'
-    - 'Indiana State University '
-    - 'North Carolina Department of Transportation '
-    
-updated: 'May 26th, 2021'
+    - 'Indiana State University'
+    - 'North Carolina'
+    - 'North Carolina Department of Transportation'
+    - 'White-Nose Syndrome'
+updated: 'May 27th, 2021'
 ---
 
-Asheville, N.C. - On May 9, 2016, biologist Chris Kelly saw a lone bat on a bridge crossing the French Broad River outside Asheville, North Carolina. Five years later, everything wildlife biologists thought they knew about endangered gray bats in this corner of the Blue Ridge Mountains has been upended.
+**Asheville, North Carolina** - On May 9, 2016, biologist Chris Kelly saw a lone bat on a bridge crossing the French Broad River outside Asheville, North Carolina. Five years later, everything wildlife biologists thought they knew about endangered gray bats in this corner of the Blue Ridge Mountains has been upended.
 
-Kelly, a biologist with the N.C. Wildlife Resources Commission, was on the bridge doing bird work. Bats aren’t her area of expertise, so she reached out to the state’s bat experts. Joey Weber, a technician who was working for the Commission, arrived at the bridge later that day and found 19 big brown bats roosting in the expansion joints. But he heard many more. 
+Kelly, a biologist with the N.C. Wildlife Resources Commission, was on the bridge doing bird work. Bats aren’t her area of expertise, so she reached out to the state’s bat experts. Joey Weber, a technician who was working for the Commission, arrived at the bridge later that day and found 19 big brown bats roosting in the expansion joints. But he heard many more.
 
 That night, Weber was joined by Katherine Etchison, the Commission’s bat biologist, for an emergence count – when biologists count how many bats emerge from a roost at dusk. They counted 240, but a busy schedule meant the team couldn’t return for a second emergence count until July 18.
 
@@ -35,9 +34,9 @@ She immediately texted Susan Cameron, an Asheville-based biologist with the U.S.
 
 {{< figure class="photo-right" src="/images/pages/biologist-attached-a-radio-telemetry-transmitter-to-a-gray-bat.jpg" alt="A transmitter device is attached to a gray bat" caption="Biologist attached a radio telemetry transmitter to a gray bat. Credit G. Peeples, USFWS" >}}
 
-## Big discovery 
+## Big discovery
 
-The gray bat was placed on the federal threatened and endangered species list in 1976. The first record of a gray bat in North Carolina dates from 1968, when a bat that was banded in Tennessee that July was pulled from the grill of a car near Swannanoa in October. Western North Carolina is on the edge of their range. Gray bats were considered cave-dwellers, their range centered on the cave-rich landscape of Tennessee and Kentucky.  
+The gray bat was placed on the federal threatened and endangered species list in 1976. The first record of a gray bat in North Carolina dates from 1968, when a bat that was banded in Tennessee that July was pulled from the grill of a car near Swannanoa in October. Western North Carolina is on the edge of their range. Gray bats were considered cave-dwellers, their range centered on the cave-rich landscape of Tennessee and Kentucky.
 
 In North Carolina, before 2016, only 13 gray bats had turned up in years of routine bat surveys. Three more had been randomly found, including the one in the car grill. Gray bats are known to cover a lot of ground, so it was assumed any found in North Carolina were simply Tennessee bats passing through.
 
@@ -57,11 +56,11 @@ It was not the first time NCDOT had taken imperiled bats into consideration. Nor
 
 ## Right under our noses
 
-With a nearby outdoor concert providing background music, a stream-side team of wildlife biologists was busy gluing tiny radio transmitters to gray bats along a section of the French Broad River in Asheville. It was 2018 and, for the next two years, the biologists tagged bats at numerous roosting sites across the French Broad basin. 
+With a nearby outdoor concert providing background music, a stream-side team of wildlife biologists was busy gluing tiny radio transmitters to gray bats along a section of the French Broad River in Asheville. It was 2018 and, for the next two years, the biologists tagged bats at numerous roosting sites across the French Broad basin.
 
 The radio signals were picked up by temporary telemetry towers, antennae held by biologists driving the river basin, and, on occasion, airplanes carrying receivers. After several days, the glue fails and the transmitters fall off, leaving the bats none the worse for wear. In addition to the radio telemetry, 15 acoustic detectors were scattered across the basin to determine bat presence and species.
 
-At the beginning of 2016 there were no known gray bat roosts in North Carolina. Any time they were found, it was considered a fluke – a lone Tennessee bat venturing out into the wider world. Today, thanks to the Indiana State University researchers and a handful of other organizations, the number of roosts approaches 40. They’re found across the French Broad River basin, including tributary streams from the Pigeon River in Haywood County to the North Toe River in Avery County. 
+At the beginning of 2016 there were no known gray bat roosts in North Carolina. Any time they were found, it was considered a fluke – a lone Tennessee bat venturing out into the wider world. Today, thanks to the Indiana State University researchers and a handful of other organizations, the number of roosts approaches 40. They’re found across the French Broad River basin, including tributary streams from the Pigeon River in Haywood County to the North Toe River in Avery County.
 
 Most of the roosts are bridges, but the list also includes culverts, buildings, and trees. The list did not include a single cave or mine - the major roosting sites for gray bats. The research also revealed that the bats are warm-season visitors, arriving in early spring, then departing in fall, to likely winter in Tennessee caves.
 
