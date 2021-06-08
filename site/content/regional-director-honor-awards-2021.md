@@ -1445,8 +1445,9 @@ Bottom line: Nicole Adimey is the full package.
     for (var i = 0, len = elms.length;i < len;i++) {
       new Splide(elms[i], {
 		    cover: true,
+        heightRatio: 0.65,
         type: 'loop',
-		    height: '65vh',
+		    // height: '65vh',
         autoplay: true,
         interval: 3500,
         lazyLoad: 'sequential'
