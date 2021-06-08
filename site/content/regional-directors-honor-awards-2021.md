@@ -667,7 +667,16 @@ All because someone reached out.
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/" alt="">
+        <img src="/images/pages/mallard-ducks-on-flooded-corn.jpg" alt="Two mallard ducks swimming between corn stalks in a flooded field">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/mallards-in-flooded-corn-field.jpg" alt="Dozens of male and female mallards in a flooded corn field">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/genetically-engineered-crops-corn.jpg" alt="Four men in a corn field looking at the crop">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/tractor-mowing-tall-grass.jpg" alt="A large tractor mowing 10 foot tall grass">
       </li>
     </ul>
   </div>
@@ -698,7 +707,19 @@ The team’s work dovetails nicely with our Regional Vision to connect lands and
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/" alt="">
+        <img src="/images/pages/green-river-nwr-establishment.jpg" alt="Dozens of people surround a sign that reads Green River National Wildlife Refuge">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/michael-johnson-green-river-nwr.jpg" alt="A man addresses a crowd from behind a podium on a stage">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/judy-miller-sen-mcconnell.jpg" alt="Service employee posing for a photograph with a Senator from Kentucky">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/green-river-donated-tract.jpg" alt="A snowy farm field">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/kimberly-sykes-tina-blancett-green-river-nwr.jpg" alt="Two Service employees posing for a photo">
       </li>
     </ul>
   </div>
@@ -726,7 +747,16 @@ A corollary to that: Earlier this year the refuge added 437 more acres. A good t
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/" alt="">
+        <img src="/images/pages/harris-neck-nwr-leadership.jpg" alt="Four Service employees posing for a photo">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/director-skipwith-ms-timmons.jpg" alt="Two African American women sitting in a pew at a church">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/harris-neck-mou-signing.jpg" alt="Three people at a table signing a document">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/holly-gaboriault-shaw-davis-wearing-masks.jpg" alt="Two Service employees wearing masks during a pandemic">
       </li>
     </ul>
   </div>
@@ -750,7 +780,16 @@ The MOU, like the refuge, will serve as a reminder that the Service works to con
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/" alt="">
+        <img src="/images/pages/least-tern-bill-stripling.jpg" alt="A bright white bird diving towards the ground">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/least-tern-chick-and-eggs.jpg" alt="A fluffy tan bird next two two more eggs in a small depression in the ground serving as a nest">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/interior-least-tern-indiana.jpg" alt="A white bird sitting in a sandy nest on the ground">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/birding-from-a-boat.jpg" alt="Birders wearing personal flotation devices look for interior least terns through binoculars">
       </li>
     </ul>
   </div>
@@ -776,7 +815,19 @@ The conservation plans also address habitat fragmentation by creating secondary 
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/" alt="">
+        <img src="/images/pages/bloodroot-flower.jpg" alt="A bright white flower with golden stamen">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/bog-turtle-in-hand.jpg" alt="A small black turtle with orange markings on its neck">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/forested-mountains-mountain-bogs-area.jpg" alt="A small mountain range covered in trees">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/donation-lands-tour-chris-janet.jpg" alt="Two Service employees look at a map while visiting donated land">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/mountain-bogs-nwr-snow-hike.jpg" alt="Two hikers along a snow covered trail">
       </li>
     </ul>
   </div>
@@ -807,7 +858,16 @@ This acquisition was a good thing.
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/" alt="">
+        <img src="/images/pages/early-morn-screenshot-of-radar-h-laura.jpg" alt="A screenshot showing the eye of a storm passing over a refuge">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/helicopter-taking-off.jpg" alt="A helicopter taking off from an airport with another helicopter in the background">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/fire-team-briefing.jpg" alt="A team of fire fighters at a briefing">
+      </li>
+      <li class="splide__slide">
+        <img src="/images/pages/fire-fighter-drip-torch.jpg" alt="A fire fighter starts a controlled burn with a drip torch">
       </li>
     </ul>
   </div>
