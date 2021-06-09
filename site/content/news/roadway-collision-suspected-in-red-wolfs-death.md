@@ -17,7 +17,7 @@ The recent death of an endangered [red wolf](/wildlife/mammals/red-wolf/) in nor
 
 Madison, who oversees the program in eastern North Carolina for the U.S. Fish and Wildlife Service (Service) -- a region that includes Alligator and Pocosin Lakes National Wildlife Refuges -- can cite reasons for the red wolf’s one-step-ahead sprint from extinction.
 
-Human persecution, habitat degradation, and – in the apparent case of the June 3 death of red wolf 2216 – collisions take a toll on *Canis rufus*.
+Human persecution, habitat degradation, and – in the apparent case of the June 3 death of red wolf 2216 – collisions take a toll on _Canis rufus_.
 
 {{< figure class="photo-center" src="/images/pages/red-wolf-crossing-sign.jpg" alt="A bright-yellow sign reads Red Wolf Crossing. It is on the side of U.S. 64 in eastern North Carolina." caption="A sign alongside U.S. 64 in northeastern North Carolina reminds motorists that imperiled red wolves may be nearby. Photo by USFWS" >}}
 
