@@ -33,7 +33,7 @@ Two came from a red wolf-captive breeding center in Missouri, a third from a fac
 
 Biologists also outfitted each animal with a bright-orange GPS collar. They would be essential in tracking the red wolves after their release. The devices augment extensive monitoring from the ground, which continues on a day-to-day basis.
 
-{{< figure class="photo-center" src="/images/pages/red-wolf-on-the-field.jpg." alt="A red wolf stands alone in a sprawling field. It wears an orange GPS collar." caption="Red wolves were introduced to public lands in northeastern North Carolina in 1987. Their numbers since then have fluctuated. Photo by USFWS." >}}
+{{< figure class="photo-center" src="/images/pages/red-wolf-on-the-field.jpg" alt="A red wolf stands alone in a sprawling field. It wears an orange GPS collar." caption="Red wolves were introduced to public lands in northeastern North Carolina in 1987. Their numbers since then have fluctuated. Photo by USFWS." >}}
 
 Several weeks later, one collar triggered an email: a red wolf in “mortality mode.” That’s how biologists found red wolf 2216, dead on the edge of one of the rural roads running through that neck of the woods. She appeared to have been struck and killed; necropsy results are pending.   The red wolf, 4 years old, was the second roadway death this year.
 
