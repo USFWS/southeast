@@ -11,8 +11,9 @@ css: 'https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.c
 tags:
     - Awards
     - 'Regional Director'
-updated: 'June 8th, 2021'
+updated: 'June 10th, 2021'
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video@latest/dist/css/splide-extension-video.min.css">
 
 ## Honor Award for Volunteer Service - Individual
 ### Joseph Anderson, Wheeler NWR
@@ -219,11 +220,11 @@ In short, Chuck Sykes is a tireless promoter of wildlife, and wild places, in Al
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
+      <li class="splide__slide" data-splide-youtube="https://www.youtube.com/watch?v=Wvym6c1dU6A">
+				<img src="/images/pages/pompey-park-community-greening.jpg" alt="Kids wearing masks and socially distancing during halloween">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/sara-sims-community-greening.jpg" alt="A woman and a man wearing green t-shirts planting a tree">
-      </li>
-      <li class="splide__slide">
-        <img src="/images/pages/pompey-park-community-greening.jpg" alt="Kids wearing masks and socially distancing during halloween">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/grove-community-greening.jpg" alt="A group of young adults in green shirts improving a small park">
@@ -297,9 +298,9 @@ The DeLuca Preserve never would have happened without the tireless engagement of
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/NCASI-begin-and-end.jpg" alt="A website screenshot from NCASI">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/guK7IcV_8do">
+				<img src="/images/pages/NCASI-begin-and-end.jpg" alt="A website screenshot from NCASI">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/longleaf-pine-vertical.jpg" alt="A longleaf pine forest with grassy under story">
       </li>
@@ -890,11 +891,11 @@ This acquisition was a good thing.
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/NoT92v5gH1k">
+				<img src="/images/pages/helicopter-taking-off.jpg" alt="A helicopter taking off from an airport with another helicopter in the background">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/early-morn-screenshot-of-radar-h-laura.jpg" alt="A screenshot showing the eye of a storm passing over a refuge">
-      </li>
-      <li class="splide__slide">
-        <img src="/images/pages/helicopter-taking-off.jpg" alt="A helicopter taking off from an airport with another helicopter in the background">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/fire-team-briefing.jpg" alt="A team of fire fighters at a briefing">
@@ -1438,7 +1439,7 @@ Nicole also tackled the task of restructuring the PFW and Coastal program within
 
 Bottom line: Nicole Adimey is the full package.
 
-
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video@latest/dist/js/splide-extension-video.min.js"></script>
 <script>
   document.addEventListener( 'DOMContentLoaded', function () {
     var elms = document.getElementsByClassName('splide');
@@ -1451,7 +1452,7 @@ Bottom line: Nicole Adimey is the full package.
         autoplay: true,
         interval: 3500,
         lazyLoad: 'sequential'
-	    }).mount();
+	    }).mount( window.splide.Extensions );
     }
   });
 </script>
