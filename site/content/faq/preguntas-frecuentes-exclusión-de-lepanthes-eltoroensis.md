@@ -1,6 +1,5 @@
 ---
-title: 'Preguntas Frecuentes '
-subtitle: 'Exclusión de Lepanthes eltoroensis de la lista Federal de plantas amenazadas y en peligro de extinción '
+title: 'Exclusión de Lepanthes eltoroensis de la lista Federal de plantas amenazadas y en peligro de extinción'
 date: 2021-06-15T00:00:00.000Z
 tags:
     - 'Caribbean Ecological Services Field Office'

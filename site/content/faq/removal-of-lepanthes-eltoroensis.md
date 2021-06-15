@@ -1,6 +1,5 @@
 ---
-title: 'Frequently Asked Questions'
-subtitle: 'Removal of Lepanthes Eltoroensis From the Federal List of Threatened and Endangered Plants'
+title: 'Removal of Lepanthes Eltoroensis From the Federal List of Threatened and Endangered Plants'
 date: 2021-06-15T00:00:00.000Z
 tags:
     - 'Caribbean Ecological Services Field Office'
