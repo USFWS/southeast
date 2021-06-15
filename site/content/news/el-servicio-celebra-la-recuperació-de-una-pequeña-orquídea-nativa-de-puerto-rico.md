@@ -6,6 +6,7 @@ hero:
     alt: 'A flowering plant with a tiny orange and pink bud.'
     caption: '_Lepanthes eltoroensis_. Photo © Omar Monsegur.'
 tags:
+    - 'Caribbean Ecological Services Field Office'
     - 'Puerto Rico'
     - 'Endangered Species Act'
     - 'Plant'
