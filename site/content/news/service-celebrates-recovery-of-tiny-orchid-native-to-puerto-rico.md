@@ -41,6 +41,8 @@ The proposed and final rules, the post-delisting monitoring plan, and the commen
 
 Edwin Muñiz, Field Supervisor, U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office, Road 301, Km. 5.1, Boquerón, Puerto Rico 00622; P.O. Box 491, Boquerón, Puerto Rico 00622; or by telephone (787) 851–7297.  If you use a telecommunications device for the deaf (TDD), please call the Federal Relay Service at (800) 877–8339.
 
+## [Frequently Asked Questions](/faq/removal-of-lepanthes-eltoroensis/)
+
 ## Contacts
 
 - Jennifer Koches, [jennifer_koches@fws.gov](mailto:jennifer_koches@fws.gov), (843) 300-0424
