@@ -1,6 +1,6 @@
 ---
 title: 'Regional Director’s Honor Awards'
-date: 2021-06-14T00:00:00.000Z
+date: 2021-06-16T00:00:00.000Z
 draft: true
 hero:
     name: urban-marsh.jpg
@@ -11,9 +11,38 @@ css: 'https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.c
 tags:
     - Awards
     - 'Regional Director'
-updated: 'June 10th, 2021'
+updated: 'June 15th, 2021'
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video@latest/dist/css/splide-extension-video.min.css">
+
+<style>
+  .splide__video__play {
+    background: #fff;
+    height: 75px;
+    opacity: .8;
+    width: 75px;
+  }
+
+  .splide__video__play:hover {
+    background: #ccc;
+    border: 2px solid #fff;
+  }
+
+  .splide__slide--has-video .splide__video__play {
+    border: 2px solid #fff;
+    opacity: .8;
+  }
+</style>
+
+The Regional Director’s Honor Award is given to our volunteers, partners, and employees who have contributed to the accomplishments of the [Service’s mission](https://www.fws.gov/help/about_us.html) and vision in the South Atlantic-Gulf and Mississippi Basin Interior Regions:
+
+> “Together we will connect lands and waters to sustain fish, wildlife and plants by being visionary leaders, bold innovators and trusted partners, working with and for people.”
+
+Through this lens, extraordinary performance in a job, team, or volunteer assignment is demonstrated through exceptional innovation or ability.
+
+We value the contributions of Service employees, volunteers, and partners and celebrate you!
+
+The fiscal year 2019-2020 recipients are...
 
 ## Honor Award for Volunteer Service - Individual
 ### Joseph Anderson, Wheeler NWR
@@ -31,7 +60,7 @@ updated: 'June 10th, 2021'
         <img src="/images/pages/joseph-anderson-john-deere.jpg" alt="A man on a large green tractor with a family standing in front of him">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/joseph-anderson-bridge.jpg" alt="A man cutting boards on a foot bridge to make a repair">
+        <img src="/images/pages/joseph-anderson-bridge-repair.jpg" alt="A man cutting boards on a foot bridge to make a repair">
       </li>
     </ul>
   </div>
@@ -59,9 +88,9 @@ Joseph epitomizes the Service’s dedication to the conservation and enjoyment o
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/roger-brooks-checking-fuel.jpg" alt="A man dipping a ruler in a fuel tank to check it's level">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/YlBrtt0zJCk">
+				<img src="/images/pages/roger-brooks-checking-fuel.jpg" alt="A man dipping a ruler in a fuel tank to check it's level">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/janice-and-roger-brooks.jpg" alt="Husband and wife posing for a photo overlooking a marsh">
       </li>
@@ -95,7 +124,7 @@ Roger and Janice take pride in their work and willingly impart that professional
         <img src="/images/pages/friends-of-mammoth-springs-group-shot.jpg" alt="A group of kids and chaperones posing for a photo after a fishing event">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/filling-up-a-cooler-at-fishing-event.jpg" alt="A man and woman fill up a huge container with ice">
+        <img src="/images/pages/filling-up-a-cooler-at-mammoth-spring-fishing-event.jpg" alt="A man and woman fill up a huge container with ice">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/alexis-and-adam-davis.jpg" alt="A man in a uniform posing for a photo with his wife">
@@ -157,7 +186,7 @@ The refuge plans to open up public access to the tract so visitors can hike and 
         <img src="/images/pages/red-hills-salamander-emmett-blankenship.jpg" alt="A slimy salamander walks over a moss covered stone">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/leo-miranda-red-hills-salamander-event-12-10-20-kenny-johnson.jpg" alt="A man in a green shirt standing at a podium behind a sign about the Red Hills salamander">
+        <img src="/images/pages/chuck-sykes-RHS-event-12-10-20-kenny-johnson.jpg" alt="A man in a green vest standing at a podium behind a sign about the Red Hills salamander">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/red-hills-salamander-event-12-10-20-kenny-johnson.jpg" alt="A group of people socially distanced in a wooded area">
@@ -183,7 +212,7 @@ But the salamander isn’t the only beneficiary. The tracts eventually will be a
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/chuck-sykes-RHS-event-12-10-20-kenny-johnson.jpg" alt="A man in a green vest standing at a podium behind a sign about the Red Hills salamander">
+        <img src="/images/pages/charlie-sykes-headshot.jpg" alt="A man with a red tie and suit smiling for a photo">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/charlie-sykes.jpg" alt="A man in a green polo shirt holding a black snake">
@@ -193,9 +222,6 @@ But the salamander isn’t the only beneficiary. The tracts eventually will be a
       </li>
       <li class="splide__slide">
         <img src="/images/pages/charlie-sykes-turkey.jpg" alt="Two men showing off the wild turkeys they hunted">
-      </li>
-      <li class="splide__slide">
-        <img src="/images/pages/charlie-sykes-headshot.jpg" alt="A man with a red tie and suit smiling for a photo">
       </li>
     </ul>
   </div>
@@ -259,9 +285,9 @@ Community Greening is making a difference. It was recently named “Tree Advocac
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/destiny-florida-grasshopper-sparrow-deluca.jpg" alt="A biologist smiles as she holds a small brown bird in her hand with a net in the background">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://www.youtube.com/watch?v=lMDsuFT3Hcs">
+				<img src="/images/pages/destiny-florida-grasshopper-sparrow-deluca.jpg" alt="A biologist smiles as she holds a small brown bird in her hand with a net in the background">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/florida-grasshopper-sparrow-with-food-deluca.jpg" alt="A female Florida grasshopper sparrow standing on a fence">
       </li>
@@ -299,7 +325,7 @@ The DeLuca Preserve never would have happened without the tireless engagement of
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide" data-splide-youtube="https://youtu.be/guK7IcV_8do">
-				<img src="/images/pages/NCASI-begin-and-end.jpg" alt="A website screenshot from NCASI">
+				<img src="/images/pages/NCASI-web-teaser.jpg" alt="A website screenshot from NCASI">
 			</li>
       <li class="splide__slide">
         <img src="/images/pages/longleaf-pine-vertical.jpg" alt="A longleaf pine forest with grassy under story">
@@ -318,7 +344,7 @@ Over the next decade, NCASI will monitor the impact of working forests on these 
 
 With sixty percent of the region’s forests in private hands, the Service needs all the help it can get protecting rare species. Darren’s help is invaluable.
 
-### Three Legs of a Stool for
+### Three Legs of a Stool: Florida FWCC, South Florida Water Management District, and Fish and Wildlife Service
 
 <div class="splide">
   <div class="splide__track">
@@ -339,7 +365,7 @@ With sixty percent of the region’s forests in private hands, the Service needs
   </div>
 </div>
 
-A.R.M. Loxahatchee NWR Sometimes, the devil – and the delights – are in the details. Take the Arthur R. Marshall Loxahatchee National Wildlife Refuge’s relationship with the State of Florida, for example.
+Sometimes, the devil – and the delights – are in the details. Take the Arthur R. Marshall Loxahatchee National Wildlife Refuge’s relationship with the State of Florida, for example.
 
 Last year the refuge, the South Florida Water Management District and the South Florida Water Management District partnered to improve water quality, eradicate invasive plants and boost recreation. The “cooperative agreement” bolsters the Service’s overall mission and Regional Vision – greater conservation of fish and wildlife.
 
@@ -364,7 +390,7 @@ Three years of tough, tireless and, at-times, contentious negotiations culminate
         <img src="/images/pages/AMRE-Zenzal.jpg" alt="A biologist holding a black bird with orange feathers around it's wings">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/auriel-holding-redhead-canvasback.jpg" alt="A woman holding two ducks in the woods">
+        <img src="/images/pages/auriel-holding-redhead-and-canvasback.jpg" alt="A woman holding two ducks in the woods">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/bald-eagle-huge-nest-seymour.jpg" alt="A huge nest in a tall tree with a bald eagle">
@@ -426,7 +452,7 @@ Kevin continues to be an advocate for a strong partnership between DoD and the S
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/Lox-7-09-Lance-.jpg" alt="A marsh under a blue sky">
+        <img src="/images/pages/prescribed-fire-at-loxahatchee-nwr.jpg" alt="A person on a fan boat with a helicopter flying in the background. Smoke eminates from the marsh during a prescribed fire.">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/raptor-at-loxahatchee-nwr-bradley-rosendorf.jpg" alt="A raptor coming in for a landing on a tree">
@@ -441,7 +467,7 @@ Kevin continues to be an advocate for a strong partnership between DoD and the S
         <img src="/images/pages/alligator.jpg" alt="An alligator with only it's head poking out of the water in a marsh">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/prescribed-fire-at-loxahatchee-nwr.jpg" alt="A person on a fan boat with a helicopter flying in the background. Smoke eminates from the marsh during a prescribed fire.">
+        <img src="/images/pages/Lox-7-09-Lance-.jpg" alt="A marsh under a blue sky">
       </li>
     </ul>
   </div>
@@ -459,15 +485,7 @@ It’s a complex, and controversial, job. Olice, though, makes it work.
 
 ### Southeast Conservation Adaptation Strategy (SECAS) Interim Steering Committee
 
-<div class="splide">
-  <div class="splide__track">
-    <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/secas-meeting.jpg" alt="Three men gather around a map on a table">
-      </li>
-    </ul>
-  </div>
-</div>
+{{< figure class="photo-center" src="/images/pages/secas-meeting.jpg" alt="Three men gather around a map on a table" >}}
 
 Large-scale conservation requires bold and innovative leadership. Five state wildlife agency directors fill that role – and then some – when it comes to the Southeast Conservation Adaptation Strategy.
 
@@ -482,9 +500,9 @@ The committee wrapped up its work last year with recommendations to boost long-s
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/snowy-plover-chick.jpg" alt="A fluffy white bird with tiny legs standing on the beach">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/cup-5w-IGj8">
+				<img src="/images/pages/snowy-plover-chick.jpg" alt="A fluffy white bird with tiny legs standing on the beach">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/panama-city-crayfish-playground.jpg" alt="Playground equipment in the shape of a large crayfish">
       </li>
@@ -517,15 +535,18 @@ Recreation, another Service priority, is also bolstered by the Team’s work. Th
 
 Next up: A proposed land-acquisition project to mitigate the ravages of climate change via carbon sequestration, corridor set-asides and coastal improvements all intended to help at risk, threatened and endangered species.
 
+[Check out the Public Meeting on Deepwater Horizon Spill Restoration plan](https://thefloridachannel.org/videos/10-2-18-public-meeting-on-deepwater-horizon-oil-spill-restoration-plan/). Note, this link will take you away from FWS.gov.
+
 ## Honor Award for Private Landowner of the Year
 ### Elisabeth DeLuca
 
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/elizabeth-deLuca.jpg" alt="A portrait of a woman with short reddish blond hair and a dark grey dress">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://www.youtube.com/watch?v=IIQa20Dq4FE">
+				<img src="/images/pages/elizabeth-deLuca.jpg" alt="A portrait of a woman with short reddish blond hair and a dark grey dress">
+        Video Courtesy of University of Florida
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/florida-grasshopper-sparrow-with-cricket.jpg" alt="A black and grey bird with a bright green cricket in it's beak">
       </li>
@@ -557,9 +578,9 @@ Elisabeth DeLuca said it best. “Few things in this world are as precious – a
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/jorge-buening-snake.jpg" alt="A man holding a large black snake">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/so6fGoIEVUw">
+				<img src="/images/pages/jorge-buening-snake.jpg" alt="A man holding a large black snake">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/jorge-buening-boat.jpg" alt="A man steering a boat down a river">
       </li>
@@ -567,7 +588,7 @@ Elisabeth DeLuca said it best. “Few things in this world are as precious – a
         <img src="/images/pages/florida-grasshopper-sparrow-in-a-box.jpg" alt="A small black and grey bird in a box covered with vegetation">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/jorge-buening-fishing.jpg" alt="Two men in a boat at the dock showing off their catch">
+        <img src="/images/pages/jorge-buening-fishing-with-friend.jpg" alt="Two men in a boat at the dock showing off their catch">
       </li>
     </ul>
   </div>
@@ -596,9 +617,9 @@ In short: Give Jorge a job and don’t worry about it getting done.
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/corey-jackson.jpg" alt="A law enforcement officer posing for a photo in uniform">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/sNnjH3Q7rbQ">
+				<img src="/images/pages/corey-jackson.jpg" alt="A law enforcement officer posing for a photo in uniform">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/corey-jackson-trophies.jpg" alt="A law enforcement officer kneeling in a room full of confiscated wildlife trophies">
       </li>
@@ -659,9 +680,9 @@ Although the Blueprint reflects the work of many, Amy’s leadership, laughter, 
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/kid-in-a-wheel-chair-with-alligator-mascot.jpg" alt="A young adult in a wheel chair posing for a photo with two employees and an alligator mascott">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/fUdV_JXhjDI">
+				<img src="/images/pages/kid-in-a-wheel-chair-with-alligator-mascot.jpg" alt="A young adult in a wheel chair posing for a photo with two employees and an alligator mascott">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/ana-castillo-ruiz.jpg" alt="A woman standing at a booth with environmental education information smiling at two children">
       </li>
@@ -700,9 +721,9 @@ All because someone reached out.
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/mallard-ducks-on-flooded-corn.jpg" alt="Two mallard ducks swimming between corn stalks in a flooded field">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/oK-D8sMNJys">
+				<img src="/images/pages/mallard-ducks-on-flooded-corn.jpg" alt="Two mallard ducks swimming between corn stalks in a flooded field">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/mallards-in-flooded-corn-field.jpg" alt="Dozens of male and female mallards in a flooded corn field">
       </li>
@@ -987,9 +1008,9 @@ This online tool has been so successful that other ES field offices have taken n
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/shorebirds-kekyll-isle-georgia-alan-cressler.jpg" alt="Dozens of birds flying along the beach at dusk">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/uJXGltwsuaI">
+				<img src="/images/pages/shorebirds-kekyll-isle-georgia-alan-cressler.jpg" alt="Dozens of birds flying along the beach at dusk">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/coastal-erosion-alan-cressler.jpg" alt="A dead tree on the beach with the soil eroding away between it's roots">
       </li>
@@ -997,13 +1018,13 @@ This online tool has been so successful that other ES field offices have taken n
         <img src="/images/pages/vero-beach-sunrise.jpg" alt="A sunrise along the beach from behind the dunes">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/mel-and-manatee.jpg" alt="A woman waiting in the back of a transport truck with a rescued manatee">
+        <img src="/images/pages/mel-and-rescueed-manatee.jpg" alt="A woman waiting in the back of a transport truck with a rescued manatee">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/tom-holding-a-frog.jpg" alt="A Service biologist holding a small dark frog in his two hands">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/angel-colon-santiago-endangered-eugenia-woodburyana.jpg" alt="A Service biologist kneeling in a forest next two endangered plants">
+        <img src="/images/pages/angel-colon-santiago-endangered-eugenia-woodburyana-plant.jpg" alt="A Service biologist kneeling in a forest next two endangered plants">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/lori-miller-measuring-water.jpg" alt="A Service biologist taking water level measurements">
@@ -1040,7 +1061,7 @@ It was a serious undertaking, on a serious topic.
         <img src="/images/pages/handler-feeding-a-giraffe.jpg" alt="An animal keeper pushes some vegetation over a fence to a young giraffe">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/matt-warriner.jpg" alt="A bald man with an Arkansas Game and Fish Commission shirt on">
+        <img src="/images/pages/matt-warriner-close.jpg" alt="A bald man with an Arkansas Game and Fish Commission shirt on">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/stasey-whichel.jpg" alt="A woman with brown hair posing for a photo">
@@ -1097,10 +1118,10 @@ This group’s work (forgive the obvious pun) last year took wing.
 
 That team:
 
-- Heath Hagy, Regional Waterfowl Ecologist
+- Heath Hagy, Regional Refuge Waterfowl Ecologist
 - Randy Wilson, Supervisory Wildlife Biologist
 - John Stanton, Supervisory Wildlife Biologist
-- Zachary Cravens, Data Manager, in the National Wildlife Refuge
+- Zachary Cravens, Data Manager, in the National Wildlife Refuge System
 
 System’s Inventory and Monitoring Program Last year, the Waterfowl Objectives Team achieved something remarkable: It developed a process to create waterfowl objectives to individual refuges – a process called “stepping down.” This has profound implications for population objectives for ducks, geese, swans and cranes across Interior Regions 2 and 4.
 
@@ -1174,7 +1195,7 @@ The team produced this webinar while taking care of day-to-day duties. And a fin
         <img src="/images/pages/jennifer-mitchell-eating-lunch-with-friends.jpg" alt="Three women and a man enjoying lunch outside">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/jennifer-mitchell-flowers.jpg" alt="A woman showing off her beautiful flowers">
+        <img src="/images/pages/jennifer-mitchell-flowers-smiling.jpg" alt="A woman showing off her beautiful flowers">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/jennifer-mitchell-softscrub.jpg" alt="A woman and three men having triumphantly cleaned the office refrigerator">
@@ -1240,9 +1261,9 @@ Jason embodies the Service’s embrace of sound science. He’s a perpetual good
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/carp-at-barkley-dam.jpg" alt="Hundreds of white fish jumping out of the water next to a dam">
-      </li>
+    <li class="splide__slide" data-splide-youtube="https://youtu.be/GRowchBTlUY">
+				<img src="/images/pages/carp-at-barkley-dam.jpg" alt="Hundreds of white fish jumping out of the water next to a dam">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/allan-interview-at-barkley.jpg" alt="A man being interviewed">
       </li>
@@ -1282,9 +1303,9 @@ The Service’s carp-control efforts are enjoying increased funding, and that’
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/madison-post-hurricane-road-delivery-oversight.jpg" alt="A man walking on gravel in front of a large dump truck">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/d796ahJvx6c">
+				<img src="/images/pages/madison-post-hurricane-road-delivery-oversight.jpg" alt="A man walking on gravel in front of a large dump truck">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/dave-madison-trackhoe.jpg" alt="A man operating a trackhoe">
       </li>
@@ -1365,9 +1386,9 @@ It took a concerted effort, and it worked
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/florida-grasshopper-sparrow-fwc-tory-Hartley-cox.jpg" alt="A small brown and black bird chirping from a long blade of grass">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://www.youtube.com/watch?v=CGSvafXaJno">
+				<img src="/images/pages/florida-grasshopper-sparrow-fwc-tory-Hartley-cox.jpg" alt="A small brown and black bird chirping from a long blade of grass">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/Erin-M.jpg" alt="A woman looking through binoculars in a dry grassy field">
       </li>
@@ -1378,7 +1399,7 @@ It took a concerted effort, and it worked
         <img src="/images/pages/archer-feeding.jpg" alt="Feeding Florida grasshopper sparrow chicks">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/weighing-birds.jpg" alt="A biologists measures the weight of chicks">
+        <img src="/images/pages/weighing-florida-grasshopper-sparrows.jpg" alt="A biologists measures the weight of chicks">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/mobile-aviary-release.jpg" alt="Excited biologists cheer for the camera the weight of chicks">
@@ -1402,14 +1423,16 @@ Ranchers, who understand that prescribed fire and roller chopping benefit sparro
 
 Roughly 250 sparrows have been raised and released and many are breeding. It’s quite a success story!
 
+The Team:  Mary Peterson,Ashleigh Blackford, Rob Aldredge, Erin Myers, Aline Morrow, Ken Warren, Ken Blick, Tony Brady,Allan Brown, Jorge Buening, Bryson Harvey, Stephen Jackson, Cheryl Samek, Robin Boughton, Andrew Cox, Craig Faulhaber, Adrienne Fitzwilliam, Steve Glass, Michelle Kerr, Karl Miller, Juan Oteyza, Erin Ragheb, Rebecca Schneider, Carlie Segelson, Lisa Shender, Catherine Welch, Reed Bowman, Greg Thompson, Rebecca Windsor, Brent Bonner, Troy Hershberger, Scott Citino, Jessica Emerson, Andrew Schumann, Brandon Speeg, Michelle Smurl, Jonathan Miot, Caroline Efstathion, Rob Horsburgh, Paul Gray, Andrew Walker, Jim Austin, Jim Wellehan, Jim Cox, Brian Beasley, David "Lefty" Durando.
+
 ### Nicole Adimey, Regional Vision Champion Award
 
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/images/pages/longleaf-pine-red-cockaded-woodpecker-angelina-nf-av.jpg" alt="Tall, sparse pine trees, some with white bands around their trunk">
-      </li>
+      <li class="splide__slide" data-splide-youtube="https://youtu.be/OJgGc7amw1o">
+				<img src="/images/pages/longleaf-pine-red-cockaded-woodpecker-tree-band.jpg" alt="Tall, sparse pine trees, some with white bands around their trunk">
+			</li>
       <li class="splide__slide">
         <img src="/images/pages/biologists-in-a-stream.jpg" alt="Three biologists looking for specimens in a stream">
       </li>
