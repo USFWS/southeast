@@ -146,7 +146,7 @@ Two of the events were targeted at boosting fishing opportunities for kids. The 
 
 None of it would be possible without the hard work of our Friends who recruit volunteers, plan activities, seek donations and sponsors, and provide supplies via their fundraising at the gift shop and from fish food sales.
 
-RD Honor Award Recipients:  Tim Shannon, Ben Wheeler, Alexis Davis, and Jim Mills.
+***RD Honor Award Recipients***:  Tim Shannon, Ben Wheeler, Alexis Davis, and Jim Mills.
 
 ### Ding Darling Wildlife Society
 
@@ -178,7 +178,7 @@ It worked. Wulfert Bayous – later renamed the Lee Anne Tauck Conservation Trac
 
 The refuge plans to open up public access to the tract so visitors can hike and view wildlife, too.
 
-RD Honor Award Recipients:  Mike Baldwin, Sarah Ashton, Bill Valerian, Wendy Kindig, Birgie Miller, and John McCabe.
+***RD Honor Award Recipients***:  Mike Baldwin, Sarah Ashton, Bill Valerian, Wendy Kindig, Birgie Miller, and John McCabe.
 
 ## Honor Awards for Conservation Partners
 ### Alabama Department of Conservation and Natural Resources (ADCNR) Red Hills Salamander Habitat Purchase Team
@@ -210,7 +210,7 @@ The acquisitions are part of a longterm conservation goal of delisting the salam
 
 But the salamander isn’t the only beneficiary. The tracts eventually will be accessible to the public for hunting, birding and other activities. Other rare animals are likely on the land too, or may relocate there. Those species include the Bachman’s sparrow, worm-eating warbler, red-cockaded woodpecker, gopher tortoise, and southern hognose snake.
 
-RD Honor Award Recipients:  Chuck Sykes, Patti Powell-McCurdy, Keith Gauldin, Ericha Nix, Doug Deaton, Jeremy Doss, and Drew Nix.
+***RD Honor Award Recipients***:  Chuck Sykes, Patti Powell-McCurdy, Keith Gauldin, Ericha Nix, Doug Deaton, Jeremy Doss, and Drew Nix.
 
 ### Chuck Sykes, Director, Wildlife and Freshwater Fisheries, the Alabama Department of Conservation and Natural Resources
 
@@ -286,7 +286,7 @@ A “Youth Tree Team” employs local teens to maintain the green spaces. The ki
 
 Community Greening is making a difference. It was recently named “Tree Advocacy Group of the Year” by the Florida Urban Forestry Council, and the “Non-Profit of the Year” by the Greater Delray Beach Chamber of Commerce.
 
-RD Honor Award Recipients:  Mark Cassini, Indira Brooch, Dondre McCrary, and Stephen Seto.
+***RD Honor Award Recipients***:  Mark Cassini, Indira Brooch, Dondre McCrary, and Stephen Seto.
 
 ### DeLuca Preserve Team (The University of Florida/Institute of Food and Agricultural Sciences and Ducks Unlimited)
 
@@ -327,7 +327,7 @@ For Ducks Unlimited, the conservation easement provides protection for this crit
 
 The DeLuca Preserve never would have happened without the tireless engagement of the Service’s partners. The university, the nonprofit, and the Service will protect and sustain the lands for generations to come.
 
-RD Honor Award Recipients:  Brent Sellers, Margaret Atherton, Jerry Holden, Josh Green, Carol Ann Walker, Maggie Hines, Darin Blunck, Karen Waldrop, Anna Rollosson, Diana Iriate, and Dale James.
+***RD Honor Award Recipients***:  Brent Sellers, Margaret Atherton, Jerry Holden, Josh Green, Carol Ann Walker, Maggie Hines, Darin Blunck, Karen Waldrop, Anna Rollosson, Diana Iriate, and Dale James.
 
 ### Dr. Darren Miller
 
@@ -385,7 +385,7 @@ The deal also calls for an expansion of public access and recreational opportuni
 
 Three years of tough, tireless and, at-times, contentious negotiations culminated in the partnership agreement which sets the refuge’s management vision for the next 20 years. In the end, though, the partners, and other stakeholders, have improved communication, collaboration and trust which can only benefit the restoration of the Everglades.
 
-RD Honorr Award Recipients:  Rory Feeney, Thomas R. Reinert, Michael Stevens, Steven Seibert, Kathleen Burchett, Ernest Clarke, Rolf Olson, Steven Henry, Rebekah Gibble, Laura Housh, Veronica Kelly, Melissa Juntunen, Andrew Eastwick, Bill Calvert, and Patrick James.
+***RD Honor Award Recipients***:  Rory Feeney, Thomas R. Reinert, Michael Stevens, Steven Seibert, Kathleen Burchett, Ernest Clarke, Rolf Olson, Steven Henry, Rebekah Gibble, Laura Housh, Veronica Kelly, Melissa Juntunen, Andrew Eastwick, Bill Calvert, and Patrick James.
 
 ### Gulf of Mexico Avian Monitoring Network (GoMAMN)
 
@@ -422,7 +422,7 @@ The team created, and maintains, a website to facilitate conservation among the 
 
 This team provides invaluable assistance for the Service’s at-risk and conservation efforts.
 
-RD Honor Award Recipients:  Randy Wilson, Jeff Gleason, Bill Vermillion, John Tirpak, Steve DeMaso, Pete Tuttle, TJ Zenal, Mark Woodrey, Bob Cooper, Peter Frederick, Pat Jodice, Evan Adams, Janell Brush, Melanie Driscoll, Michael Seymour, Jacquelyn Grace, Terri Maness, Mary Ann Ottinger, Eric Soehren, Rob Dobbs, Trey Barron, Melody Chimahusky, Jim Lyons, Jessica Schulz, Auriel Fournier, Stephanie Sharuga, David Reeves, Ben Wilson, and Rachel Kirpes.
+***RD Honor Award Recipients***:  Randy Wilson, Jeff Gleason, Bill Vermillion, John Tirpak, Steve DeMaso, Pete Tuttle, TJ Zenal, Mark Woodrey, Bob Cooper, Peter Frederick, Pat Jodice, Evan Adams, Janell Brush, Melanie Driscoll, Michael Seymour, Jacquelyn Grace, Terri Maness, Mary Ann Ottinger, Eric Soehren, Rob Dobbs, Trey Barron, Melody Chimahusky, Jim Lyons, Jessica Schulz, Auriel Fournier, Stephanie Sharuga, David Reeves, Ben Wilson, and Rachel Kirpes.
 
 ### Kevin Porteck
 
@@ -509,7 +509,7 @@ They, comprehensively, evaluated SECAS effectiveness and adaptability in an ever
 
 The committee wrapped up its work last year with recommendations to boost long-standing relationships between SECAS leaders, staff and partners. Members also underscored SECAS’ value as a collaborative endeavor. Its work bolsters the Southeast Region’s vision of emboldened leadership striving to connect lands and waters for the betterment of all. For that, the committee deserves the conservation partnership award.
 
-RD Honor Award Recipients are the State Directors of 200-2021: Mallory Martin, Paul Johansen, Ed Carter, Gordon Myers, Rusty Garrison, Sara Parker, and the Florida Fish and Wildlife Conservation Commission.
+***RD Honor Award Recipients*** are the State Directors of 200-2021: Mallory Martin, Paul Johansen, Ed Carter, Gordon Myers, Rusty Garrison, Sara Parker, and the Florida Fish and Wildlife Conservation Commission.
 
 ### State of Florida Trustees in the Deepwater Horizon Oil Spill NRDA
 
@@ -553,7 +553,7 @@ Next up: A proposed land-acquisition project to mitigate the ravages of climate 
 
 [Check out the Public Meeting on Deepwater Horizon Spill Restoration plan](https://thefloridachannel.org/videos/10-2-18-public-meeting-on-deepwater-horizon-oil-spill-restoration-plan/). Note, this link will take you away from FWS.gov.
 
-RD Honors Award Recipients:  Leslie Ames, Phil Coram, Lisa Robertson, Jim Reynolds, Gareth Leonard, and Amy Raker.
+***RD Honor Award Recipients***:  Leslie Ames, Phil Coram, Lisa Robertson, Jim Reynolds, Gareth Leonard, and Amy Raker.
 
 ## Honor Award for Private Landowner of the Year
 ### Elisabeth DeLuca
