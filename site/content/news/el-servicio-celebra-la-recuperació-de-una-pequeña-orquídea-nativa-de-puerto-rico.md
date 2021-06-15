@@ -41,6 +41,8 @@ Las regulaciones propuestas y finales, el plan de monitoreo de la especie y los 
 
 Edwin Muñiz, Supervisor de Campo, Servicio Federal de Pesca y Vida Silvestre, Oficina de Campo de Servicios Ecológicos del Caribe, P.O. Box 491, Boquerón, Puerto Rico 00622; al correo electrónico [edwin_muniz@fws.gov](mailto:edwin_muniz@fws.gov), o por teléfono al 787-405-3641. Si utiliza un dispositivo de telecomunicaciones para sordos (TDD), llame al Servicio de retransmisión federal al (800) 877–8339. 
 
+## [Preguntas Frecuentes](/faq/preguntas-frecuentes-exclusión-de-lepanthes-eltoroensis/)
+
 ## Contacto
 
 - Jennifer Koches, [jennifer_koches@fws.gov](mailto:jennifer_koches@fws.gov), (843) 300-0424
