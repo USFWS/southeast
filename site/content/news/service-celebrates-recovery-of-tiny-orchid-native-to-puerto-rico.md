@@ -3,7 +3,7 @@ title: 'Service Celebrates Recovery of Tiny Orchid Native to Puerto Rico, Finali
 date: 2021-06-15
 hero:
     name: lepanthes-eltoroensis.jpg
-    alt: 'A small fish with swimming above rocky substrate. Fish is striped tail to snout brown, black and white.'
+    alt: 'A flowering plant with a tiny orange and pink bud.'
     caption: '_Lepanthes eltoroensis_. Photo © Omar Monsegur.'
 tags:
     - 'Puerto Rico'
@@ -43,6 +43,4 @@ Edwin Muñiz, Field Supervisor, U.S. Fish and Wildlife Service, Caribbean Ecol
 ## Contacts
 
 - Jennifer Koches, [jennifer_koches@fws.gov](mailto:jennifer_koches@fws.gov), (843) 300-0424
-
-
 
