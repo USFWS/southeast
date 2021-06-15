@@ -146,6 +146,8 @@ Two of the events were targeted at boosting fishing opportunities for kids. The 
 
 None of it would be possible without the hard work of our Friends who recruit volunteers, plan activities, seek donations and sponsors, and provide supplies via their fundraising at the gift shop and from fish food sales.
 
+RD Honor Award Recipients:  Tim Shannon, Ben Wheeler, Alexis Davis, and Jim Mills.
+
 ### Ding Darling Wildlife Society
 
 <div class="splide">
@@ -175,6 +177,8 @@ The Society recognized up-front that it could not do this deal alone, so it trai
 It worked. Wulfert Bayous – later renamed the Lee Anne Tauck Conservation Tract – is the last, large undeveloped property on Sanibel Island. It has some of the island’s highest elevations, home to the best gopher tortoise habitats. An isolated wetland needs to be restored and enhanced for the benefit of colonial nesting wading birds. The $5 million-plus Gulf Benefit Restoration funds will help accomplish that.
 
 The refuge plans to open up public access to the tract so visitors can hike and view wildlife, too.
+
+RD Honor Award Recipients:  Mike Baldwin, Sarah Ashton, Bill Valerian, Wendy Kindig, Birgie Miller, and John McCabe.
 
 ## Honor Awards for Conservation Partners
 ### Alabama Department of Conservation and Natural Resources (ADCNR) Red Hills Salamander Habitat Purchase Team
@@ -206,22 +210,24 @@ The acquisitions are part of a longterm conservation goal of delisting the salam
 
 But the salamander isn’t the only beneficiary. The tracts eventually will be accessible to the public for hunting, birding and other activities. Other rare animals are likely on the land too, or may relocate there. Those species include the Bachman’s sparrow, worm-eating warbler, red-cockaded woodpecker, gopher tortoise, and southern hognose snake.
 
+RD Honor Award Recipients:  Chuck Sykes, Patti Powell-McCurdy, Keith Gauldin, Ericha Nix, Doug Deaton, Jeremy Doss, and Drew Nix.
+
 ### Chuck Sykes, Director, Wildlife and Freshwater Fisheries, the Alabama Department of Conservation and Natural Resources
 
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/charlie-sykes-headshot.jpg" alt="A man with a red tie and suit smiling for a photo">
+        <img src="/images/pages/charlie-sykes-portrait.jpg" alt="A man with a red tie and suit smiling for a photo">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/charlie-sykes.jpg" alt="A man in a green polo shirt holding a black snake">
+        <img src="/images/pages/charlie-sykes-with-snake.jpg" alt="A man in a green polo shirt holding a black snake">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/charlie-sykes-award.jpg" alt="Four men in formal attire showing off an award they just won">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/charlie-sykes-turkey.jpg" alt="Two men showing off the wild turkeys they hunted">
+        <img src="/images/pages/charlie-sykes-turkey-hunt.jpg" alt="Two men showing off the wild turkeys they hunted">
       </li>
     </ul>
   </div>
@@ -280,6 +286,8 @@ A “Youth Tree Team” employs local teens to maintain the green spaces. The ki
 
 Community Greening is making a difference. It was recently named “Tree Advocacy Group of the Year” by the Florida Urban Forestry Council, and the “Non-Profit of the Year” by the Greater Delray Beach Chamber of Commerce.
 
+RD Honor Award Recipients:  Mark Cassini, Indira Brooch, Dondre McCrary, and Stephen Seto.
+
 ### DeLuca Preserve Team (The University of Florida/Institute of Food and Agricultural Sciences and Ducks Unlimited)
 
 <div class="splide">
@@ -318,6 +326,8 @@ All parties realize how vital it is to preserve the prairies, wetlands and ranch
 For Ducks Unlimited, the conservation easement provides protection for this critical watershed; showcases the compatibility of conservation and agriculture; and ensures that the grasshopper sparrow, and other T&E species, never go extinct.
 
 The DeLuca Preserve never would have happened without the tireless engagement of the Service’s partners. The university, the nonprofit, and the Service will protect and sustain the lands for generations to come.
+
+RD Honor Award Recipients:  Brent Sellers, Margaret Atherton, Jerry Holden, Josh Green, Carol Ann Walker, Maggie Hines, Darin Blunck, Karen Waldrop, Anna Rollosson, Diana Iriate, and Dale James.
 
 ### Dr. Darren Miller
 
@@ -375,6 +385,8 @@ The deal also calls for an expansion of public access and recreational opportuni
 
 Three years of tough, tireless and, at-times, contentious negotiations culminated in the partnership agreement which sets the refuge’s management vision for the next 20 years. In the end, though, the partners, and other stakeholders, have improved communication, collaboration and trust which can only benefit the restoration of the Everglades.
 
+RD Honorr Award Recipients:  Rory Feeney, Thomas R. Reinert, Michael Stevens, Steven Seibert, Kathleen Burchett, Ernest Clarke, Rolf Olson, Steven Henry, Rebekah Gibble, Laura Housh, Veronica Kelly, Melissa Juntunen, Andrew Eastwick, Bill Calvert, and Patrick James.
+
 ### Gulf of Mexico Avian Monitoring Network (GoMAMN)
 
 <div class="splide">
@@ -396,7 +408,7 @@ Three years of tough, tireless and, at-times, contentious negotiations culminate
         <img src="/images/pages/bald-eagle-huge-nest-seymour.jpg" alt="A huge nest in a tall tree with a bald eagle">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/juliet-lamband-brown-pelican.jpg" alt="A woman holding a large white bird">
+        <img src="/images/pages/juliet-lamband-pelican.jpg" alt="A woman holding a large white bird">
       </li>
     </ul>
   </div>
@@ -410,13 +422,15 @@ The team created, and maintains, a website to facilitate conservation among the 
 
 This team provides invaluable assistance for the Service’s at-risk and conservation efforts.
 
+RD Honor Award Recipients:  Randy Wilson, Jeff Gleason, Bill Vermillion, John Tirpak, Steve DeMaso, Pete Tuttle, TJ Zenal, Mark Woodrey, Bob Cooper, Peter Frederick, Pat Jodice, Evan Adams, Janell Brush, Melanie Driscoll, Michael Seymour, Jacquelyn Grace, Terri Maness, Mary Ann Ottinger, Eric Soehren, Rob Dobbs, Trey Barron, Melody Chimahusky, Jim Lyons, Jessica Schulz, Auriel Fournier, Stephanie Sharuga, David Reeves, Ben Wilson, and Rachel Kirpes.
+
 ### Kevin Porteck
 
 <div class="splide">
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/porteck-tyndall-hurricane-damage.jpg" alt="A man posing for a photo in front of trees previously snapped in half from high winds">
+        <img src="/images/pages/porteck-tyndall-damage.jpg" alt="A man posing for a photo in front of trees previously snapped in half from high winds">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/porteck-eglin-pitcher-plants.jpg" alt="A man posing for a photo behind rare pitcher plants">
@@ -495,6 +509,8 @@ They, comprehensively, evaluated SECAS effectiveness and adaptability in an ever
 
 The committee wrapped up its work last year with recommendations to boost long-standing relationships between SECAS leaders, staff and partners. Members also underscored SECAS’ value as a collaborative endeavor. Its work bolsters the Southeast Region’s vision of emboldened leadership striving to connect lands and waters for the betterment of all. For that, the committee deserves the conservation partnership award.
 
+RD Honor Award Recipients are the State Directors of 200-2021: Mallory Martin, Paul Johansen, Ed Carter, Gordon Myers, Rusty Garrison, Sara Parker, and the Florida Fish and Wildlife Conservation Commission.
+
 ### State of Florida Trustees in the Deepwater Horizon Oil Spill NRDA
 
 <div class="splide">
@@ -537,6 +553,8 @@ Next up: A proposed land-acquisition project to mitigate the ravages of climate 
 
 [Check out the Public Meeting on Deepwater Horizon Spill Restoration plan](https://thefloridachannel.org/videos/10-2-18-public-meeting-on-deepwater-horizon-oil-spill-restoration-plan/). Note, this link will take you away from FWS.gov.
 
+RD Honors Award Recipients:  Leslie Ames, Phil Coram, Lisa Robertson, Jim Reynolds, Gareth Leonard, and Amy Raker.
+
 ## Honor Award for Private Landowner of the Year
 ### Elisabeth DeLuca
 
@@ -544,7 +562,7 @@ Next up: A proposed land-acquisition project to mitigate the ravages of climate 
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide" data-splide-youtube="https://www.youtube.com/watch?v=IIQa20Dq4FE">
-				<img src="/images/pages/elizabeth-deLuca.jpg" alt="A portrait of a woman with short reddish blond hair and a dark grey dress">
+				<img src="/images/pages/elisabeth-deLuca.jpg" alt="A portrait of a woman with short reddish blond hair and a dark grey dress">
         Video Courtesy of University of Florida
 			</li>
       <li class="splide__slide">
@@ -656,7 +674,7 @@ A few words from his nominator says it all: “He (Corey) embraces the high idea
         <img src="/images/pages/amys-favorite-bird.jpg" alt="A white and tan bird spreading out it's wings">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/plant-white-flower.jpg" alt="A plant in a deciduous forest with a white flower">
+        <img src="/images/pages/plant-white-flower-wide.jpg" alt="A plant in a deciduous forest with a white flower">
       </li>
     </ul>
   </div>
@@ -962,19 +980,19 @@ All the while, the team continues stressing the importance of training.
         <img src="/images/pages/joe-ranson.jpg" alt="A man in a navy suit and red tie with an American flag in the background">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/b-firmin.jpg" alt="A woman with curly black hair, smiling">
+        <img src="/images/pages/b-firmin-portrait.jpg" alt="A woman with curly black hair, smiling">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/brian-scofield.jpg" alt="A man in a blue sweater posing in front of pine trees">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/monica-sikes.jpg" alt="A Service biologist in uniform on a boat with a net">
+        <img src="/images/pages/monica-sikes-portrait.jpg" alt="A Service biologist in uniform on a boat with a net">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/karen-soileau.jpg" alt="A blonde woman smiling for the camera">
+        <img src="/images/pages/karen-soileau-portrait.jpg" alt="A blonde woman smiling for the camera">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/amy-trahan.jpg" alt="A woman with brown hair smiling for the camera">
+        <img src="/images/pages/amy-trahan-portrait.jpg" alt="A woman with brown hair smiling for the camera">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/victoria-foster.jpg" alt="A woman with brown hair smiling in front of the beach">
@@ -1018,7 +1036,7 @@ This online tool has been so successful that other ES field offices have taken n
         <img src="/images/pages/vero-beach-sunrise.jpg" alt="A sunrise along the beach from behind the dunes">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/mel-and-rescueed-manatee.jpg" alt="A woman waiting in the back of a transport truck with a rescued manatee">
+        <img src="/images/pages/mel-and-rescueed-manatee-wide.jpg" alt="A woman waiting in the back of a transport truck with a rescued manatee">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/tom-holding-a-frog.jpg" alt="A Service biologist holding a small dark frog in his two hands">
@@ -1043,7 +1061,7 @@ That team:
 - From Florida: Study Coordinator Todd Hopkins, Lori Miller, Miles Meyer, and former interns Alyssa Cavanaugh and Ellie Noll
 - From Tennessee: Daniel Adams, the GIS lead
 - From North Carolina: John Ellis and Kathryn Matthews
-- Also, from South Carolina: Mark Caldwell and Tom McCoy
+- From South Carolina: Mark Caldwell and Tom McCoy
 - From Georgia: Bill Wikoff
 - From Alabama: Patric Harper Mississippi: Paul Necaise
 - And Puerto Rico and the U.S. Virgin Islands: Angel Colon-Santiago
@@ -1058,13 +1076,13 @@ It was a serious undertaking, on a serious topic.
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/handler-feeding-a-giraffe.jpg" alt="An animal keeper pushes some vegetation over a fence to a young giraffe">
+        <img src="/images/pages/handler-feeding-a-giraffe-wide.jpg" alt="An animal keeper pushes some vegetation over a fence to a young giraffe">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/matt-warriner-close.jpg" alt="A bald man with an Arkansas Game and Fish Commission shirt on">
+        <img src="/images/pages/matt-warriner-portrait.jpg" alt="A bald man with an Arkansas Game and Fish Commission shirt on">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/stasey-whichel.jpg" alt="A woman with brown hair posing for a photo">
+        <img src="/images/pages/stasey-whichel-portrait.jpg" alt="A woman with brown hair posing for a photo">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/jim-shark-research-trip.jpg" alt="Two men in a research boat, one holding a small shark">
@@ -1099,7 +1117,7 @@ Also worth noting: Everyone who gave time and expertise to the working group vol
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/tennessee-nwr-goose-roundup.jpg" alt="Dozens of geese in a pen">
+        <img src="/images/pages/tennessee-nwr-roundup-geese.jpg" alt="Dozens of geese in a pen">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/john-stanton-banding-geese.jpg" alt="A man holding a goose with an orange band on it's neck">
@@ -1180,13 +1198,13 @@ The team produced this webinar while taking care of day-to-day duties. And a fin
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
-        <img src="/images/pages/jennifer-mitchell-football.jpg" alt="A woman gleaming as she stands next to a professional football player">
+        <img src="/images/pages/jennifer-mitchell-falcons.jpg" alt="A woman gleaming as she stands next to a professional football player">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/jennifer-mitchell-pontoon.jpg" alt="A woman enjoying herself with friends on a pontoon boat at a dock">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/jennifer-mitchell-run.jpg" alt="Two women smiling at the end of a race">
+        <img src="/images/pages/jennifer-mitchell-runner.jpg" alt="Two women smiling at the end of a race">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/jennifer-mitchell-falcons-mascot.jpg" alt="A woman posing with the Falcons mascot">
@@ -1354,7 +1372,7 @@ Some people may have seen all the destroyed trees, battered forests and washed-o
         <img src="/images/pages/randy-spencer.jpg" alt="A man standing in front of a wildlife restoration sign">
       </li>
       <li class="splide__slide">
-        <img src="/images/pages/Maria-Powell.jpg" alt="A woman smiling with the surf in the background">
+        <img src="/images/pages/maria-powell-portrait.jpg" alt="A woman smiling with the surf in the background">
       </li>
       <li class="splide__slide">
         <img src="/images/pages/howard-meister.jpg" alt="A man, smiling, holding a fish from a boat">
