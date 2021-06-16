@@ -1,6 +1,7 @@
 ---
 title: 'Regional Director’s Honor Awards'
 date: 2021-06-16T00:00:00.000Z
+description: 'The Regional Director’s Honor Award is given to our volunteers, partners, and employees who have contributed to the accomplishments of the Service’s mission and vision in the South Atlantic-Gulf and Mississippi Basin Interior Regions.'
 hero:
     name: urban-marsh.jpg
     alt: 'An aerial photograph of a marsh at dusk with a city in the distance'
