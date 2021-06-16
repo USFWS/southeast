@@ -1,7 +1,6 @@
 ---
 title: 'Regional Director’s Honor Awards'
 date: 2021-06-16T00:00:00.000Z
-draft: true
 hero:
     name: urban-marsh.jpg
     alt: 'An aerial photograph of a marsh at dusk with a city in the distance'
@@ -509,7 +508,7 @@ They, comprehensively, evaluated SECAS effectiveness and adaptability in an ever
 
 The committee wrapped up its work last year with recommendations to boost long-standing relationships between SECAS leaders, staff and partners. Members also underscored SECAS’ value as a collaborative endeavor. Its work bolsters the Southeast Region’s vision of emboldened leadership striving to connect lands and waters for the betterment of all. For that, the committee deserves the conservation partnership award.
 
-***RD Honor Award Recipients*** are the State Directors of 200-2021: Mallory Martin, Paul Johansen, Ed Carter, Gordon Myers, Rusty Garrison, Sara Parker, and the Florida Fish and Wildlife Conservation Commission.
+***RD Honor Award Recipients*** are the State Directors of 2019-2020: Mallory Martin, Paul Johansen, Ed Carter, Gordon Myers, Rusty Garrison, Sara Parker, and the Florida Fish and Wildlife Conservation Commission.
 
 ### State of Florida Trustees in the Deepwater Horizon Oil Spill NRDA
 
@@ -719,7 +718,7 @@ Although the Blueprint reflects the work of many, Amy’s leadership, laughter, 
 
 The Arthur R. Marshall Loxahatchee NWR Urban Program Team spent much of 2020 reaching out to people who may not be traditional refuge visitors – people who aren’t traditional wildlife fans or refuge supporters.
 
-The team:
+***RD Honor Award Recipients***
 
 - David Vela, Urban Refuge Program Coordinator at Lox
 - Veronica Kelly, a Lox Park Ranger
@@ -757,7 +756,7 @@ All because someone reached out.
 
 This is a formal recognition of a group that faced the daunting task of making the Service’s case for the use of genetically engineered crops (GECs) on some refuges.
 
-That team:
+***RD Honor Award Recipients***
 
 - Barron Crawford, Project Leader at the Tennessee Refuge Complex
 - Randy Cook, Project Leader at the West Tennessee Refuge Complex
@@ -802,6 +801,8 @@ In late 2019, the Service celebrated a major event in the green reaches of Kentu
 
 This refuge is the nation’s 568th. Its creation took place only after countless hours of work from an array of people. That team: From Kentucky: The team at Clarks River NWR, along with Lee Andrews.
 
+***RD Honor Award Recipients***
+
 Working from our regional office: Steve Seibert, Megan Reed, Daffny Pitchford, Kristen Peters, Linda Kubiscko and Holly Gaboriault. (Holly has since moved to Hadley, MA) From Tennessee: Tina Menges Blancett (formerly Chouinard).
 
 And Mississippi: Ken Clough.
@@ -837,7 +838,7 @@ A corollary to that: Earlier this year the refuge added 437 more acres. A good t
 
 On the Friday before Halloween last year, a handful of Service employees met with the descendants of people with whom they share a bond: the land comprising Harris Neck National Wildlife Refuge outside Savanna. There, standing under a brilliant sun, they signed a memorandum of understanding. The MOU cements that bond.
 
-The team that made this happen:
+***RD Honor Award Recipients***
 
 - The staff of the Savannah Coastal NWR complex
 - Holly Gaboriault, Regional Refuge Supervisor but has since moved to Hadley, MA
@@ -870,7 +871,7 @@ The MOU, like the refuge, will serve as a reminder that the Service works to con
 
 Last year, a collection of biologists, engineers and others successfully delisted the Interior least tern. This had major implications across Service regions.
 
-The team:
+***RD Honor Award Recipients***
 
 From the Mississippi offices: Paul Hartfield, Endangered Species Biologist; Cary Norquist, Deputy Field Supervisor/Listing Coordinator/and Public Affairs Officer; and Stephen Ricks, Field Supervisor Mississippi Field Office
 
@@ -908,7 +909,7 @@ The conservation plans also address habitat fragmentation by creating secondary 
 
 Last August, Mountain Bogs National Wildlife Refuge in the North Carolina’s Appalachians grew by 7,000 acres. This was due to the work of a team of professionals committed to conserving the exquisite ecosystems found in the hills.
 
-That team:
+***RD Honor Award Recipients***
 
 - Andrew Hammond
 - Carolyn Johnson
@@ -919,7 +920,7 @@ That team:
 - Pam Wingrove
 - Laura Housh
 - Megan Reed
-- Holly Gaboriault (since moved Hadley, MA)
+- Holly Gaboriault
 
 The 7,000 acres were donated. But to make that donation work, the team expanded the refuge’s acquisition boundary, more than doubling it to almost 93,000 acres. That land will help protect threatened and endangered species in the region. The refuge’s growth also helps connect conservation lands. You cannot say enough about the diversity of the southern Appalachians. It abounds with nearly 400 species of rare plants. It’s a stopping point for some migrating birds. Its rivers, lakes, streams and – yes – bogs teem with a stunning array of creatures.
 
@@ -948,7 +949,7 @@ This acquisition was a good thing.
 
 When hurricanes blow and wildfires burn, who ya gonna call? That’s right: The Regional Fire and All-Hazard Management Team. This group last year managed to do what it does best, in spite of a global pandemic.
 
-The team:
+***RD Honor Award Recipients***
 
 - Vince Carver, Regional Fire and All-Hazard Management Coordinator
 - Jon Wallace, Deputy Regional Fire and All-Hazard Management Coordinator
@@ -1003,7 +1004,7 @@ All the while, the team continues stressing the importance of training.
 
 “SLOPES” stands for Standard Local Operating Procedures for Endangered Species. “IPaC” is short for Information, Planning, and Consultation. This is an online tool that streamlines Section 7(a)(2) of the Endangered Species Act Section’s consultation process. It also reduced costs, increased agency effectiveness and enhanced customer service.
 
-The team that made this happen?
+***RD Honor Award Recipients***
 
 From the Lafayette Field Office: Joseph Ranson, former Field Supervisor; biologists Karen Soileau, Brigette Firmin, Amy Trahan and Monica Sikes; and cartographer Robert Greco
 
@@ -1056,7 +1057,7 @@ This online tool has been so successful that other ES field offices have taken n
 
 In April 2019, a collection of Ecological Science and Refuge biologists began work on a report for the Army Corps that covered seven states and two US territories. The team worked on the report for 18 months.
 
-That team:
+***RD Honor Award Recipients***
 
 - From Florida: Study Coordinator Todd Hopkins, Lori Miller, Miles Meyer, and former interns Alyssa Cavanaugh and Ellie Noll
 - From Tennessee: Daniel Adams, the GIS lead
@@ -1093,7 +1094,7 @@ It was a serious undertaking, on a serious topic.
 
 In the world of acronyms, this one is apt. TRACS stands for Tracking and Reporting Actions for the Conservation of Species – it says what it means, and it means what it says.
 
-Now, a shout-out to the team that made the tracking system happen:
+***RD Honor Award Recipients***
 
 - Jim Duffy, Fish and Wildlife Biologist, U.S. Fish and Wildlife Service
 - Matthew Warriner, Assistant Chief of Wildlife Management of Arkansas Game and Fish Commission
@@ -1134,7 +1135,7 @@ Also worth noting: Everyone who gave time and expertise to the working group vol
 
 This group’s work (forgive the obvious pun) last year took wing.
 
-That team:
+***RD Honor Award Recipients***
 
 - Heath Hagy, Regional Refuge Waterfowl Ecologist
 - Randy Wilson, Supervisory Wildlife Biologist
@@ -1177,7 +1178,7 @@ A shout-out here to some of our participants and partners: Ducks Unlimited, Divi
 
 What do you do when a global pandemic has forced you to come up with new ways to do your job and share that knowledge with others? If you are three Service law enforcement professionals working at the Port of Miami, you create a webinar focusing on wildlife inspections. Then you share it.
 
-The team:
+***RD Honor Award Recipients***
 
 - Alberto Gonzalez, Supervisor of Wildlife Inspection
 - Sylvia Gaudio, Supervisor of Wildlife Inspection
@@ -1302,7 +1303,7 @@ Here’s something you probably didn’t know: In some cultures, invasive carp a
 
 We consider the carp a nuisance, a threat to our native fish – and the reason why the Service has an Invasive Carp Communications Team:
 
-The team:
+***RD Honor Award Recipients***
 
 - Angie Rodgers, Fish and Aquatic Conservation Project Leader in Tupelo, Mississippi
 - Kristen Peters, Congressional Affairs Liaison who works in External Affairs in Atlanta
@@ -1389,7 +1390,7 @@ Some people may have seen all the destroyed trees, battered forests and washed-o
 
 This is a group that last year didn’t let a pandemic get in their way.
 
-The team: Jim Duffy, Howard (Scott) Meister, Scott White, Marilyn Lawal, Jerri (LeAnne) Bonner, Marcus (Randy) Spencer, Matthew Thomas, Alex Coley, Mary M. Powell, Tiffany Rollins, Bruce Kennedy, and Cherry Dorcus.
+***RD Honor Award Recipients*** Jim Duffy, Howard (Scott) Meister, Scott White, Marilyn Lawal, Jerri (LeAnne) Bonner, Marcus (Randy) Spencer, Matthew Thomas, Alex Coley, Mary M. Powell, Tiffany Rollins, Bruce Kennedy, and Cherry Dorcus.
 
 This group maintained outstanding grant customer service to states and partners. Thanks to them, vital conservation funding was not delayed – even during a period when office staffing was about 65 percent of what would be normal. At the same time, the team lost the program manager and two of three supervisory staff. Despite that, the team picked up those duties. Team members also trained state partners on the rollout of two new grant programs.
 
@@ -1441,7 +1442,7 @@ Ranchers, who understand that prescribed fire and roller chopping benefit sparro
 
 Roughly 250 sparrows have been raised and released and many are breeding. It’s quite a success story!
 
-The Team:  Mary Peterson,Ashleigh Blackford, Rob Aldredge, Erin Myers, Aline Morrow, Ken Warren, Ken Blick, Tony Brady,Allan Brown, Jorge Buening, Bryson Harvey, Stephen Jackson, Cheryl Samek, Robin Boughton, Andrew Cox, Craig Faulhaber, Adrienne Fitzwilliam, Steve Glass, Michelle Kerr, Karl Miller, Juan Oteyza, Erin Ragheb, Rebecca Schneider, Carlie Segelson, Lisa Shender, Catherine Welch, Reed Bowman, Greg Thompson, Rebecca Windsor, Brent Bonner, Troy Hershberger, Scott Citino, Jessica Emerson, Andrew Schumann, Brandon Speeg, Michelle Smurl, Jonathan Miot, Caroline Efstathion, Rob Horsburgh, Paul Gray, Andrew Walker, Jim Austin, Jim Wellehan, Jim Cox, Brian Beasley, David "Lefty" Durando.
+***RD Honor Award Recipients***  Mary Peterson,Ashleigh Blackford, Rob Aldredge, Erin Myers, Aline Morrow, Ken Warren, Ken Blick, Tony Brady,Allan Brown, Jorge Buening, Bryson Harvey, Stephen Jackson, Cheryl Samek, Robin Boughton, Andrew Cox, Craig Faulhaber, Adrienne Fitzwilliam, Steve Glass, Michelle Kerr, Karl Miller, Juan Oteyza, Erin Ragheb, Rebecca Schneider, Carlie Segelson, Lisa Shender, Catherine Welch, Reed Bowman, Greg Thompson, Rebecca Windsor, Brent Bonner, Troy Hershberger, Scott Citino, Jessica Emerson, Andrew Schumann, Brandon Speeg, Michelle Smurl, Jonathan Miot, Caroline Efstathion, Rob Horsburgh, Paul Gray, Andrew Walker, Jim Austin, Jim Wellehan, Jim Cox, Brian Beasley, David "Lefty" Durando.
 
 ### Nicole Adimey, Regional Vision Champion Award
 
