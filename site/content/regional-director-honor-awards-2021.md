@@ -377,7 +377,7 @@ With sixty percent of the region’s forests in private hands, the Service needs
 
 Sometimes, the devil – and the delights – are in the details. Take the Arthur R. Marshall Loxahatchee National Wildlife Refuge’s relationship with the State of Florida, for example.
 
-Last year the refuge, the South Florida Water Management District and the South Florida Water Management District partnered to improve water quality, eradicate invasive plants and boost recreation. The “cooperative agreement” bolsters the Service’s overall mission and Regional Vision – greater conservation of fish and wildlife.
+Last year the refuge, the South Florida Water Management District and the Florida Fish and Wildlife Conservation Commission partnered to improve water quality, eradicate invasive plants and boost recreation. The “cooperative agreement” bolsters the Service’s overall mission and Regional Vision – greater conservation of fish and wildlife.
 
 The partnership facilitated the exchange of lands between the Service and the District. It has, in particular, generated nearly $12 million in state and federal money to treat invasive plants that strangle much of the refuge. More than 38,000 acres of exotics have been eradicated so far.
 
