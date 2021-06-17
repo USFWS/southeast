@@ -9,7 +9,7 @@ aliases:
     - /species/fish/carolina-madtom
     - /species/fishes/carolina-madtom
 tags:
-    - 'At-Risk Species'
+    - 'Endangered Species'
     - 'Endangered Species Act'
     - Fish
     - 'Neuse River Waterdog'
@@ -26,7 +26,7 @@ updated: 'March 25th, 2019'
 
 - **Taxon:** Freshwater Fish
 - **Range:** Neuse River and Tar River basins, [North Carolina](/north-carolina)
-- **Status:** At-risk species
+- **Status:** Endangered
 
 {{< content-scroller tag="Carolina Madtom" heading="Related content" >}}
 
