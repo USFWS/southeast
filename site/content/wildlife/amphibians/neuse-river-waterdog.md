@@ -6,7 +6,7 @@ type: species-profile
 js: /js/species-profile.js
 tags:
     - Amphibian
-    - 'At-Risk Species'
+    - 'Threatened Species'
     - 'Endangered Species Act'
     - 'Neuse River Basin'
     - 'North Carolina'
@@ -21,12 +21,12 @@ hero:
     alt: 'A spotted black salamander with red tufts around its gills.'
     caption: 'A young Neuse River waterdog from the Little River, Johnston County, North Carolina. <a href="https://flic.kr/p/U6bSnC">Photo</a> by Jeff Beane.'
     position: 'bottom left'
-updated: 'April 30th, 2019'
+updated: 'June 17th, 2021'
 ---
 
 - **Taxon:** Freshwater salamander
 - **Range:** Neuse and Tar River basins, [North Carolina](/north-carolina)
-- **Status:** At-risk species
+- **Status:** Threatened
 
 {{< content-scroller tag="Neuse River Waterdog" heading="Related content" >}}
 
