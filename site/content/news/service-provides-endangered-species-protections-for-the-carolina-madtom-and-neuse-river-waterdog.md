@@ -51,7 +51,7 @@ Designation of critical habitat does not affect land ownership or establish a re
 
 Seeking to reduce potential impacts to private citizens and businesses without decreasing necessary protections for the Neuse River waterdog, the Service developed a 4(d) rule under the ESA specifying which activities are prohibited and which are allowed. During the public comment periods, the Service received comments on potential impacts to forest management practices and potential increases in regulatory burden on North Carolina’s private forestry industry. Today’s final 4(d) rule reflects key recommendations and includes careful consideration of the comments received in response to the proposed rule.
 
-For more information, please visit the Service’s webpage on the summary of the finalized 4(d) rule prohibitions and exceptions for the Neuse River waterdog.
+For more information, please visit the Service’s webpage on [the summary of the finalized 4(d) rule prohibitions and exceptions for the Neuse River waterdog](/news/summary-of-the-neuse-river-waterdog-final-4(d)-rule-prohibitions-and-exceptions) 
 
 The final listing determinations and critical habitat designations for the Carolina madtom and the Neuse River waterdog and the 4(d) rule for the Neuse River waterdog are scheduled to publish in the Federal Register on Wednesday, June 9, 2021. The rules become effective on Friday, July 9, 2021. An early preview of the regulations will be available for public inspection on Tuesday, June 8, 2021 at 8:45 a.m. ET. After the date of publication, [links to documents](https://www.govinfo.gov/app/collection/FR/).
 
