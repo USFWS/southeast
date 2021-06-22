@@ -11,7 +11,7 @@ css: 'https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.c
 tags:
     - Awards
     - 'Regional Director'
-updated: 'June 15th, 2021'
+updated: 'June 22nd, 2021'
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video@latest/dist/css/splide-extension-video.min.css">
 
@@ -41,6 +41,8 @@ The Regional Director’s Honor Award is given to our volunteers, partners, and 
 Through this lens, extraordinary performance in a job, team, or volunteer assignment is demonstrated through exceptional innovation or ability.
 
 We value the contributions of Service employees, volunteers, and partners and celebrate you!
+
+{{< youtube id="C4GftTGhLYc" title="Recording from the 2021 Regional Director's Honor Awards virtual broadcast" >}}
 
 The fiscal year 2019-2020 recipients are...
 
