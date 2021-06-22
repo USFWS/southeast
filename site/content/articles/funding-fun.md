@@ -1,7 +1,7 @@
 ---
 title: 'Funding fun'
 subtitle: 'Federal, state programs guarantee boating access  '
-date: 2022-05-06T00:00:00.000Z
+date: 2021-06-22T00:00:00.000Z
 author: 'Lanier Clegg, Junior Public Affairs Specialist'
 hero:
     name: alabama-sunset.jpg
