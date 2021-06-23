@@ -1,10 +1,10 @@
 ---
-title: 'Florida Golden Aster Proposed for Delisting Thanks to Three Decades of Conservation Efforts  '
+title: 'Florida Golden Aster Proposed for Delisting Thanks to Three Decades of Conservation Efforts'
 subtitle: 'Down to nine populations in the 1980s, the plant’s remarkable recovery is the result of effective partnerships and conservation initiative'
 date: 2021-06-23T00:00:00.000Z
 hero:
     name: florida-golden-aster.jpg
-    alt: 'A patch of yellow wildflowers'
+    alt: 'A patch of yellow wildflowers.'
     caption: 'Florida golden aster. Photo credit B. J. Maynard'
 tags:
     - 'Endangered Species Act'
