@@ -92,10 +92,5 @@ The reclassification makes no change in how federal agencies consult with the Se
  
  ## Where can I find the comments and information submitted by the public? 
  
- Go to the [Federal eRulemaking Portal](http://www.regulations.gov/). Search for  Docket Number FWS–R4–ES–2020–0063, which is the docket number for this action. You can also visit us [here](https:/wildlife/plants/smooth-coneflower/) for additional information about the smooth coneflower.
- 
- 
- 
- 
- 
+Go to the [Federal eRulemaking Portal](http://www.regulations.gov/). Search for  Docket Number FWS–R4–ES–2020–0063, which is the docket number for this action. You can also visit us [here](https:/wildlife/plants/smooth-coneflower/) for additional information about the smooth coneflower.
  
