@@ -40,6 +40,8 @@ The proposed 4(d) rule for the plant will allow certain management actions that 
 The public will have a 60-day period to comment on this proposal, which will end on August 23, 2021. To comment, go to the [Federal eRulemaking Portal](https://www.regulations.gov/). Search for Docket Number FWS–R4–ES–2020–0063, which is the docket number for this action.
 
  [Find out more about smooth coneflower](/wildlife/plants/smooth-coneflower).
+ 
+ [Frequently Asked Questions](/faq/reclassifying-the-smooth-coneflower-from-endangered-to-threatened). 
 
 
 ## Contacts
