@@ -43,7 +43,7 @@
     "chokidar": "^3.0.0",
     "concat-map": "0.0.1",
     "csvtojson": "^1.1.12",
-    "date-and-time": "^0.6.2",
+    "date-and-time": "^0.14.2",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.13.0",
