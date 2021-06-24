@@ -32,7 +32,7 @@
     "fws-navigation": "^1.6.0",
     "fws-scrollnav": "^1.19.0",
     "ga-browser": "^1.0.0",
-    "lazysizes": "^4.1.8",
+    "lazysizes": "^5.2.1",
     "lodash.defaults": "^4.2.0",
     "lodash.foreach": "^4.5.0",
     "lodash.throttle": "^4.1.1",
