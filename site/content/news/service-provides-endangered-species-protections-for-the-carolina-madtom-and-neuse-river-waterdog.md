@@ -37,7 +37,7 @@ Seeking to encourage private sector conservation, the Service has partnered with
 
 Ensuring that reintroduction sites will be sufficiently healthy to support the madtom is critical. Therefore, the Service is designating 257 river miles (414 river kilometers) in seven units in North Carolina as critical habitat for the Carolina madtom. Five of the seven units are considered currently occupied by the madtom.
 
-{{< figure class="photo-center" src="/images/pages/650/neuse-river-waterdog-with-ruler.jpg" alt="A long salamander with a reddish brown body with black spots." caption="Adult Neuse River Waterdog. Photo by NCWRC." >}}
+{{< figure class="photo-center" src="/images/pages/neuse-river-waterdog-with-ruler.jpg" alt="A long salamander with a reddish brown body with black spots." caption="Adult Neuse River Waterdog. Photo by NCWRC." >}}
 
 Research for the Neuse River waterdog is underway. As of May 2021, the Service awarded $110,000 to North Carolina State University to examine the relationship between environmental stressors and the distribution, drivers of reproduction and population viability of Neuse River waterdogs. Researchers will project how future land use may affect the species' ability to persist in its current range.
 
@@ -51,7 +51,7 @@ Designation of critical habitat does not affect land ownership or establish a re
 
 Seeking to reduce potential impacts to private citizens and businesses without decreasing necessary protections for the Neuse River waterdog, the Service developed a 4(d) rule under the ESA specifying which activities are prohibited and which are allowed. During the public comment periods, the Service received comments on potential impacts to forest management practices and potential increases in regulatory burden on North Carolina’s private forestry industry. Today’s final 4(d) rule reflects key recommendations and includes careful consideration of the comments received in response to the proposed rule.
 
-For more information, please visit the Service’s webpage on [the summary of the finalized 4(d) rule prohibitions and exceptions for the Neuse River waterdog](/news/summary-of-the-neuse-river-waterdog-final-4(d)-rule-prohibitions-and-exceptions) 
+For more information, please visit the Service’s webpage on [the summary of the finalized 4(d) rule prohibitions and exceptions for the Neuse River waterdog](/news/2021/06/summary-of-the-neuse-river-waterdog-final-4d-rule-prohibitions-and-exceptions/). 
 
 The final listing determinations and critical habitat designations for the Carolina madtom and the Neuse River waterdog and the 4(d) rule for the Neuse River waterdog are scheduled to publish in the Federal Register on Wednesday, June 9, 2021. The rules become effective on Friday, July 9, 2021. An early preview of the regulations will be available for public inspection on Tuesday, June 8, 2021 at 8:45 a.m. ET. After the date of publication, [links to documents](https://www.govinfo.gov/app/collection/FR/).
 
