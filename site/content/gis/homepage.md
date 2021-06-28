@@ -116,12 +116,6 @@ Phone: (404) 679-7358
 Atlanta, GA 30345  
 Phone: (404) 679-4056  
 
-[Roy Hewitt](mailto:roy_hewitt@fws.gov), Web Developer  
-[Southeast Regional Office](https://www.fws.gov/southeast/)  
-1875 Century Boulevard NE  
-Atlanta, GA 30345  
-Phone: (404) 679-7306  
-
 ### Louisiana
 
 [Yvonne Allen](mailto:yvonne_allen@fws.gov), Geographic Information Systems, Remote Sensing  
