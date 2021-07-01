@@ -1,6 +1,6 @@
 ---
-title: 'Roadway collision suspected in red wolf’s death  '
-date: 2021-06-09T00:00:00.000Z
+title: 'Each one, much too important to lose'
+date: 2021-07-01
 hero:
     name: a-lone-red-wolf.jpg
     alt: 'A lone red wolf, head down, walks along the edge of a field at Alligator River NWR'
@@ -10,9 +10,27 @@ tags:
     - 'North Carolina'
     - 'Pocosin Lakes National Wildlife Refuge'
     - 'Red Wolves'
-updated: 'June 9th, 2021'
+updated: 'July 1st, 2021'
 ---
+## Update to original story
 
+Those words echoing again with news of yet two more roadway fatalities. More red wolves taken too soon.  
+
+On the heels of the death of red wolf 2216, two more wolves are now victims of roadway deaths this year. Four red wolves no longer part of the pack. 
+
+Recently released from an acclimation pen at Alligator River NWR, red wolves 2236, a male from the Wolf Conservation Center in New York, and 2310, a female from the Endangered Wolf Center in Missouri, were killed earlier this week. 
+
+Their deaths are reminders of the difficulties the Service and their partners with the Species Survival Plan (SSP) program face in creating a thriving population of red wolves in this stretch of northeastern North Carolina. A population the Service and SSP partners hope to keep from dipping into single digits.
+
+The first vehicle fatality for the year was a male red wolf translocated from St. Vincent NWR to Alligator River NWR, one of two males transferred from the Florida refuge.  The other male red wolf remains paired with a resident female … hope for a next generation. 
+
+Each death adds to the angst every time more red wolves are released from captivity into the wild. What will their struggles be? Will they survive the challenge of cars on the highways and byways that transect this stretch of wilderness? Issues that a population with such low numbers faces … a population that relies on such releases, at least initially. 
+
+Limited signs warning of the presence of red wolves in this area have a purpose … wildlife lives here. They have no experience with roads. But humans do. 
+
+With no easy answers for animals naive to roads and fast-moving vehicles, every animal counts.  Each and every one, much too important to lose. 
+
+##  June 9, 2021: Roadway collision suspected in red wolf’s death
 The recent death of an endangered [red wolf](/wildlife/mammals/red-wolf/) in northeastern North Carolina underscores what Joe Madison has learned in years of working with wolves: Mortality stalks them.
 
 Madison, who oversees the program in eastern North Carolina for the U.S. Fish and Wildlife Service (Service) -- a region that includes Alligator and Pocosin Lakes National Wildlife Refuges -- can cite reasons for the red wolf’s one-step-ahead sprint from extinction.
