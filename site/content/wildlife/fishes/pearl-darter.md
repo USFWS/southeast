@@ -12,6 +12,7 @@ hero:
     name: pearl-darter-two.jpg
     alt: 'A tiny yellow fish with brown speckling.'
     caption: 'Pearl darter. Photo credit: M. Wagner, USFWS.'
+    position: 80% 75%
 updated: 'July 9th, 2021'
 tags:
     - 'Designated Critical Habitat'
