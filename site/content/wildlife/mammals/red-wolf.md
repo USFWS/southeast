@@ -33,6 +33,20 @@ updated: 'February 18th, 2021'
 
 {{< content-scroller tag="Red Wolf" heading="Related content" >}}
 
+## Species update
+
+In early 2021, in coordination with Species Survival Plan (SSP) experts, the U.S. Fish and Wildlife Service identified four individual red wolves, at three separate SSP partner facilities, for release into the wild in eastern North Carolina. All four red wolves (two males and two females) arrived in the North Carolina non-essential population area (NC NEP) between April 24, 2021 and April 30, 2021. On the day the last captive red wolves arrived, all four were fitted with GPS collars and placed in temporary acclimation pens (one pair on Alligator River National Wildlife Refuge and one pair on Pocosin Lakes National Wildlife Refuge). 
+
+On June 3, 2021, the female red wolf from the acclimation pen on Pocosin Lakes NWR was found dead on the edge of a rural road within the NC NEP. Initial evidence at the mortality site was indicative of a vehicle strike.
+
+In summary, three of the four captive red wolves released from the SSP under the Service’s Amended Plan to Release Red Wolves into the North Carolina Non-essential Experimental Population have died. One male red wolf from these releases remains on the landscape.   
+
+On July 6, 2021, during a routine monitoring flight, wild red wolf 2186, a 5-year old male, was detected in “mortality mode” (GPS collar emits signal indicating no movement in 8 hours) just north of Lake Mattamuskeet in a field on privately owned lands. A ground-based search crew, operating under landowner permission, was able to locate the carcass. This animal was heavily scavenged therefore a determination of cause of death may not be possible.  
+
+On July 7, 2021, the Service was notified of an orange-collared canid, dead by the side of the road. Follow-up reconnaissance confirmed this to be red wolf 2044, an 8-year old male born in the wild that was translocated from Alligator River NWR to Pocosin Lakes NWR a few years ago. The evidence again suggests a vehicle strike.  
+
+Necropsy results are pending at this time for all of the above deaths. 
+
 ## Species information
 
 The red wolf is the world’s most endangered wolf. Once common throughout the Eastern and South Central United States, red wolf populations were decimated by the early 20th century as a result of intensive predator control programs and the degradation and alteration of the species’ habitat. When the red wolf was first designated as a species “threatened with extinction” under the Endangered Species Preservation Act in 1967, the U.S. Fish and Wildlife Service initiated efforts to conserve and recover the species. Today, only about 20 red wolves roam their native habitats in eastern North Carolina as a nonessential experimental population (NEP), and approximately 245 red wolves are maintained in 43 captive breeding facilities throughout the United States. Studies are currently underway to identify the possibility of red wolf ancestry still remaining in the wild in southwestern Louisiana and southeastern Texas.
