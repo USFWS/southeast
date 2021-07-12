@@ -1,19 +1,19 @@
 ---
 title: 'Secrets of the Marsh: A Partnership to Protect a Rare Bird'
 author: 'Chris Hernandez, Coastal Program biologist, U.S. Fish and Wildlife Service'
-date: 2021-07-09
+date: 2021-07-09T00:00:00.000Z
 hero:
     name: black-rail-in-hand.jpg
-    alt: 'A black bird with white speckling and red eyes in a biologist's hand.'
+    alt: 'A black bird with white speckling and red eyes in a biologist’s hand.'
     caption: 'Eastern black rail being banded. Photo credit: Christy Hand, SCDNR.'
 tags:
-    - 'Eastern black rail'  
+    - Bird
     - 'Cumberland Darter'
+    - 'Eastern Black Rail'
     - 'Endangered Species Act'
+    - Gulf
     - 'South Carolina Coastal Program'
-    - 'Bird'
-    - 'Gulf'
-updated: 'July 9th, 2021'
+updated: 'July 12th, 2021'
 ---
 The Eastern black rail is more often heard than seen, if observed at all. This small, secretive marsh bird is listed as threatened under the Endangered Species Act and lives in shallow, grassy wetlands along the Atlantic and Gulf Coasts. In South Carolina, the black rail has found a home in a unique wetland system with more than 300 years of human involvement. While this presents a daunting challenge, a recent South Carolina Coastal Program partnership put conservation on the ground and preserved a cultural heritage.  
 
