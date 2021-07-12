@@ -3,7 +3,6 @@ title: 'Pearl darter'
 scientific: 'Percina aurora'
 description: 'The pearl darter is a small bottom dwelling freshwater fish measuring about two and a half inches in length.'
 js: /js/species-profile.js
-draft: true
 aliases:
     - /wildlife/fish/pearl-darter
     - /species/fish/pearl-darter
