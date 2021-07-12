@@ -1,18 +1,19 @@
 ---
 title: 'Service Proposes Critical Habitat for Threatened Pearl Darter in Mississippi'
-date: 2021-07-12
+date: 2021-07-12T00:00:00.000Z
 hero:
     name: pearl-darter-two.jpg
     alt: 'Tiny yellow fish with brown speckling.'
     caption: 'Pearl darter. Photo credit:  M. Wagner, USFWS.'
 tags:
-    - 'Pearl darter'
-    - 'Fish'
-    - 'Critical habitat'
+    - 'Critical Habitat'
     - 'Endangered Species Act'
-    - 'Threatened species'
+    - Fish
+    - Mississippi
+    - 'Pearl Darter'
     - 'Private John Allen National Fish Hatchery'
-    - 'Mississippi'
+    - 'Threatened Species'
+updated: 'July 12th, 2021'
 ---
 
 Today, the U.S. Fish and Wildlife Service is proposing to designate critical habitat for [the pearl darter](/wildlife/fishes/pearl-darter/), a small fish native to the Pascagoula River system of Mississippi and the Pearl River system of Mississippi and Louisiana. Pearl darters continue to survive in the Pascagoula River system but have not been seen in the Pearl River system for more than 40 years.  

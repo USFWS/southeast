@@ -1,17 +1,17 @@
 ---
 title: 'Proposed Critical Habitat for the Pearl Darter in Mississippi: Frequently Asked Questions'
-date: 2021-07-12
+date: 2021-07-12T00:00:00.000Z
 hero:
     name: pearl-darter.jpg
     alt: 'A small fish with a tan underbelly and brown markings.'
     caption: 'Pearl darter. Photo credit USFWS.'
 tags:
     - 'Critical Habitat'
-    - 'Mississippi'
-    - 'Pearl darter'
-    - 'Fish'
     - 'Endangered Species Act'
-    - 'Threatened species'
+    - Fish
+    - Mississippi
+    - 'Pearl Darter'
+    - 'Threatened Species'
 updated: 'July 12th, 2021'
 ---
 

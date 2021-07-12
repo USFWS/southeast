@@ -24,7 +24,7 @@ tags:
     - 'Red Wolf'
     - 'South Carolina'
     - 'South Carolina Ecological Services Field Office'
-updated: 'February 18th, 2021'
+updated: 'July 12th, 2021'
 ---
 
 - **Taxon**: Mammal
