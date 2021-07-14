@@ -5,18 +5,18 @@ hero:
     alt: 'A small shorebird walking through a tide pool on the beach, with other shorebirds.'
     caption: 'Tagged red knot. Mispillion Harbor, Delaware. Credit: Gregory Breese,USFWS'
 tags:
+    - Alabama
     - 'Critical Habitat'
-    - 'Red knot'
-    - 'Shorebirds'
     - 'Critical Habitat'
-    - 'Rufa red knot'
-    - 'Alabama'
-    - 'Florida'
-    - 'Georgia'
-    - 'South Carolina'
+    - Florida
+    - Georgia
+    - Louisiana
+    - Mississippi
     - 'North Carolina'
-    - 'Mississippi'
-    - 'Louisiana'
+    - 'Red Knot'
+    - 'Rufa Red Knot'
+    - Shorebirds
+    - 'South Carolina'
 updated: 'July 14th, 2021'
 ---
 ## Why is the U.S. Fish and Wildlife Service proposing to designate critical habitat for the rufa red knot?
