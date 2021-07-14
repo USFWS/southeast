@@ -39,6 +39,8 @@ In early 2021, in coordination with Species Survival Plan (SSP) experts, the U.S
 
 On June 3, 2021, the female red wolf from the acclimation pen on Pocosin Lakes NWR was found dead on the edge of a rural road within the NC NEP. Initial evidence at the mortality site was indicative of a vehicle strike.
 
+On June 27, 2021, the male red wolf released from the acclimation pen on Alligator River NWR was found dead, and on June 30, 2021, the female red wolf released from the acclimation pen on Alligator River NWR was found dead. Again, evidence at both scenes was suggestive of a vehicle strike. 
+
 In summary, three of the four captive red wolves released from the SSP under the Service’s Amended Plan to Release Red Wolves into the North Carolina Non-essential Experimental Population have died. One male red wolf from these releases remains on the landscape.   
 
 On July 6, 2021, during a routine monitoring flight, wild red wolf 2186, a 5-year old male, was detected in “mortality mode” (GPS collar emits signal indicating no movement in 8 hours) just north of Lake Mattamuskeet in a field on privately owned lands. A ground-based search crew, operating under landowner permission, was able to locate the carcass. This animal was heavily scavenged therefore a determination of cause of death may not be possible.  
