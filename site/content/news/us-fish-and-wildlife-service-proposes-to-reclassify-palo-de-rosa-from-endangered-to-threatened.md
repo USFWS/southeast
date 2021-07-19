@@ -41,6 +41,8 @@ This proposed rule, list of literature cited, and supporting documents are avail
 
 FOR FURTHER INFORMATION CONTACT: Edwin Muñiz, Field Supervisor, U.S. Fish and Wildlife Service, Caribbean Ecological Services Field Office, P.O. Box 491, Boquerón, PR 00622; telephone (787) 851–7297. Persons who use a telecommunications device for the deaf (TDD) may call the Federal Relay Service at (800) 877–8339.
 
+[Freqently Asked Questions](/faq/proposal-to-reclassify-palo-de-rosa-from-endangered-to-threatened/)
+
 ## Contact
 
 Jennifer Koches, [jennifer_koches@fws.gov](mailto:jennifer_koches@fws.gov), 843-300-0424
