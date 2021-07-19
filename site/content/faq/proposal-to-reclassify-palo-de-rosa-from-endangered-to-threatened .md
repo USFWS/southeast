@@ -1,11 +1,11 @@
 ---
-title: Frequently Asked Questions: Proposal to Reclassify Palo de Rosa From Endangered to Threatened
+title: 'Frequently Asked Questions: Proposal to Reclassify Palo de Rosa From Endangered to Threatened'
 hero:
-    name:  palo-de-rosa-in-bloom.jpg
+    name: palo-de-rosa-in-bloom.jpg
     alt: 'A tiny white flower bloom amongst green large leaves.'
     caption: 'Palo de rosa in bloom. Photo by Omar Monsegur, USFWS.'
 tags:
-     - 'Caribbean Ecological Services Field Office'
+    - 'Caribbean Ecological Services Field Office'
     - 'Endangered Species Act'
     - Plants
     - 'Puerto Rico'
